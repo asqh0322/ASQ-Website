@@ -1,0 +1,59 @@
+<html xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<link href="asqhburg.css" type="text/css" rel="stylesheet">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<base target="_self">
+<link rel=File-List href="officers_files/filelist.xml">
+<link rel=Edit-Time-Data href="officers_files/editdata.mso">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+</head>
+
+<body bgcolor="#FFFFCC" lang=EN-US>
+
+<?php include_once("navTop.html"); ?>
+
+<br/><br/>
+<hr class="gradient_blue" />
+
+<p class=section_header>2016 - 2017<br />Harrisburg Section Executive Committee</p>
+
+<table class=general>
+ <tr class=headrow><td class=tdbox>&nbsp</td><td class=tdbox>Position</td><td class=tdbox>Name</td><td class=tdbox>Phone</td><td class=tdbox>e-mail</td></tr>
+ <tr><td class=tdbox><img src="officers_files/Adam_Marsh.jpg" alt="Adam Marsh"></td><td class=tdbox>Section Chair</td><td class=tdbox>Adam Marsh</td><td class=tdbox>(717) 965-6378</td><td class=tdbox><a href="mailto:amarsh@ledgeinc.com">amarsh@ledgeinc.com</a></td></tr>
+ <tr><td class=tdbox>&nbsp</td><td class=tdbox>Chair Elect</td><td class=tdbox>Open</td><td class=tdbox>&nbsp</td><td class=tdbox>&nbsp</td></tr>
+ <tr><td class=tdbox><img src="officers_files/Shailesh_Gosai.jpg" alt="Shailesh Gosai"></td><td class=tdbox>Treasurer</td><td class=tdbox>Shailesh Gosai</td><td class=tdbox>(717) 593-5568</td><td class=tdbox><a href="mailto:shaileshvangosai@yahoo.com">shaileshvangosai@yahoo.com</a></td></tr>
+ <tr><td class=tdbox>&nbsp</td><td class=tdbox>Secretary</td><td class=tdbox>Toni Tunstall</td><td class=tdbox>(717) 370-2285</td><td class=tdbox><a href="mailto:tltunstall@armstrongflooring.com">tltunstall@armstrongflooring.com</td></tr>
+</table>
+
+<hr class=gray />
+
+<p class=section_header>Harrisburg Section Committee Chairs</p>
+
+<table class=general>
+ <tr class=headrow><td class=tdbox>&nbsp</td><td class=tdbox>Position</td><td class=tdbox>Name</td><td class=tdbox>Phone</td><td class=tdbox>e-mail</td></tr>
+ <tr><td class=tdbox><img src="officers_files/Greg_Gurican.jpg" alt="Greg Gurican"></td><td class=tdbox>Arrangements Chair</td><td class=tdbox>Greg Gurican</td><td class=tdbox>(717) 653-9699</td><td class=tdbox><a href="mailto:graygur814@comcast.net" title="blocked::mailto:graygur814@comcast.net">graygur814@comcast.net</a></td></tr>
+ <tr><td class=tdbox>&nbsp</td><td class=tdbox>Auditing Chair</td><td class=tdbox>Craig Mosher</td><td class=tdbox>(717) 986-3540</td><td class=tdbox><a href="mailto:cdmosher@te.com">cdmosher@te.com</a></td></tr>
+ <tr><td class=tdbox>&nbsp</td><td class=tdbox>By-Laws</td><td class=tdbox>David Little</td><td class=tdbox>&nbsp</td><td class=tdbox>&nbsp</td></tr>
+ <tr><td class=tdbox>&nbsp</td><td class=tdbox>Certification Chair</td><td class=tdbox>Michael Green</td><td class=tdbox>(717) 697-4188</td><td class=tdbox><a href="mailto:mpgreen204@verizon.net">mpgreen204@verizon.net</a></td></tr>
+ <tr><td class=tdbox>&nbsp</td><td class=tdbox>Chief Proctor</td><td class=tdbox>Susan Backs</td><td class=tdbox>(717) 378-5503</td><td class=tdbox><a href="mailto:sdzetc@comcast.net" title="mailto:sdzetc@comcast.net">sdzetc@comcast.net</a></td></tr>
+ <tr><td class=tdbox><img src="officers_files/John_sharp.jpg" alt="John Sharp"></td><td class=tdbox>Education Chair</td><td class=tdbox>John Sharp</td><td class=tdbox>(717) 986-7692 </td><td class=tdbox><a href="mailto:jmsharp@te.com?subject=ASQ%20Education">jmsharp@te.com</a></td></tr>
+ <tr><td class=tdbox>&nbsp</td><td class=tdbox>Internet Liaison</td><td class=tdbox>Steve Cronkrite</td><td class=tdbox>(717) 849-4770</td><td class=tdbox><a href="mailto:webmaster@asq-harrisburg.org?subject=ASQ%20Website">webmaster@asq-harrisburg.org</a></td></tr>
+  <tr><td class=tdbox><img src="officers_files/Brian_Davis.jpg" alt="Brian Davis"></td><td class=tdbox><a name=MC></a>Membership/VOC Chair</td><td class=tdbox>Brian C. Davis</td><td class=tdbox>(717)767-3767</td><td class=tdbox><a href="mailto:brian.c.davis@intertek.com">brian.c.davis@intertek.com</a></td></tr>
+ <tr><td class=tdbox>&nbsp</td><td class=tdbox>Newsletter Editor</td><td class=tdbox>Mark Wood</td><td class=tdbox>(414)748-0102</td><td class=tdbox><a href="mailto:mwood@sellarsnonwovens.com">mwood@sellarsnonwovens.com</a></td></tr>
+ <tr><td class=tdbox><img src="officers_files/Brian_Davis.jpg" alt="Brian Davis"></td><td class=tdbox>Nominations</td><td class=tdbox>Brian C. Davis</td><td class=tdbox>(717)767-3767</td><td class=tdbox><a href="mailto:brian.c.davis@intertek.com">brian.c.davis@intertek.com</a></td></tr>
+ <tr><td class=tdbox><img src="officers_files/Brian_Krady.jpg" alt="Brian Krady"></td><td class=tdbox>Placement Chair</td><td class=tdbox>Brian Krady</td><td class=tdbox>(717)767-4900</td><td class=tdbox><a href="mailto:brian.krady@smt-llc.com?subject=ASQ%20Job%20Placement">brian.krady@smt-llc.com</a></td></tr>
+<tr><td class=tdbox>&nbsp</td><td class=tdbox>Programs Co-Chair</td><td class=tdbox>Bill Gordon</td><td class=tdbox>(717) 938-1923</td><td class=tdbox><a href="mailto:bill_gordon710@comcast.net">bill_gordon710@comcast.net</a></td></tr>
+<tr><td class=tdbox>&nbsp</td><td class=tdbox>Programs Co-Chair</td><td class=tdbox>Chad J. Yiengst</td><td class=tdbox>(717) 451-9076</td><td class=tdbox><a href="mailto:cyiengst@ledgeinc.com">cyiengst@ledgeinc.com</a></td></tr>
+</table>
+
+<p class=center>Last Update 02/18/16</p>
+
+<a href="#" class="back-to-top">Back to Top</a>
+<script src=autoTop.js></script>
+
+</body>
+
+</html>

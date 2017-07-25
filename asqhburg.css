@@ -1,0 +1,532 @@
+h1 {FONT-SIZE: 2em; COLOR: 004080; FONT-FAMILY: "Calisto MT"}
+h2 {font-size: 1em; font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; text-align: center}
+h3 {font-size: .95em; font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; text-align: left}
+h3.emphasis {font-size: .95em; color: red; font-family: "Verdana, Helvetica, Arial, sans-serif"; text-align: left; text-decoration: underline}
+h4 {padding-top: 15px; font-size: .9em; font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: bold; border=0; text-align:left}
+h4.emphasis {padding-top: 15px; font-size: .9em; color: red; font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: bold; border=0; text-align:left; text-decoration: underline}
+h5 {padding-top: 15px;font-size: .95em; font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; text-align: left}
+
+body {background-color: whitesmoke;}
+
+.back-to-top {
+			position: fixed;
+			bottom: 2em;
+			right: 0px;
+			text-decoration: none;
+			color: #000000;
+			background-color: rgba(235, 235, 235, 0.80);
+			font-size: 12px;
+			padding: 1em;
+			display: none;
+		}
+
+.back-to-top:hover {	background-color: rgba(135, 135, 135, 0.50);	}	
+
+p.section_header {font-size: 1.25em; font-weight: bold; color: 004080; font-family: "Verdana, Helvetica, Arial, sans-serif"; text-align: center}
+p.info_header {font-size: 1em; font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: bold; padding = 0; border = 0; text-align: left}
+p.underline_head {font-size: 1em; text-decoration: underline;  font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: bold; padding = 0; border = 0; text-align: left}
+p.emphasis_head {font-size: 1em; font-color: black; font-style: Italic;   font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: bold; padding = 0; border = 0; text-align: left} 
+p.info_table {font-size: 1em; font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: normal; padding = 0; border = 0; text-align: left}
+p.info_emphasis {font-size: 1em; font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: normal; padding = 0; border = 0; text-align: left; font-style: italic}
+p.gen_header {font-size: .9em; font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: bold; padding=0; border=0; text-align:center}
+p.general {font-size: .9em; font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: normal; padding=0; border=0; text-align:left}
+p.gen_footer {font-size: .9em; font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: bold; padding=0; border=0; text-align:left}
+p.emphasis {font-size: .9em; font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: normal; padding=0; border=0; text-align:left; font-style: italic}
+p.c_emphasis {font-size: .9em; font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: normal; padding=0; border=0; text-align:center; font-style: italic}
+p.b_emphasis {background-color: rgb(220,220,220); font-size: .9em; font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: bold; padding=0; border=0; text-align:left; font-style: italic}
+p.signature {font-size: .9em; font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: normal; padding=0; border=0; text-align:right}
+p.center {font-size: .9em; font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: normal; padding=0; border=0; text-align:center}
+p.underline {font-size: .9em; text-decoration: underline; font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: normal; padding=0; border=0; text-align:left}
+p.underline_italics {font-size: .9em; text-decoration: underline; font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: normal; padding=0; border=0; text-align:left; font-style: italic}
+p.course_rt {font-size: .9em; font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: bold; padding=0; border=0; text-align:right}
+p.course_ct {font-size: .9em; font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: bold; padding=0; border=0; text-align:center}
+
+form.test {align-self: center;}
+
+img {border: 0; height: 102; width: 70}
+
+.imgadobe {border: 0; height: 33; width: 103}
+.imggraphic {border: 0; height: 359; width: 578}
+.imgtall {border: 0; height: 359; width: 200}
+.imgsquare {border: 0; height: 400; width: 400}
+.imglogo {border: 0; height: 75; width: 100}
+
+table.link {border: solid black 2px; border-spacing: 7; padding: 0; margin: auto}
+
+table.pad {padding: 5; border: 0; border-spacing: 10px}
+
+table.general {padding: 0; border: solid black 2px;}
+.titlerow {font-weight: bold; font-size: 2em; text-align: center; background-color: whitesmoke; margin-left: auto; margin-right: auto; }
+.footerrow {font-weight: normal; font-size: 1em; text-align: left; background-color: whitesmoke; margin-left: auto; margin-right: auto; }
+.headrow {font-weight: bold; font-size: 1em; text-align: left; background-color: #FFFFCC; margin-left: auto; margin-right: auto; }
+.linkrow {font-weight: bold; font-size: 1.25em; text-align: center; background-color: whitesmoke }
+.mutedhead {font-weight: bold; font-size: .9em; text-align: center; background-color: #FFFFCC }
+.datarow {font-weight: normal; font-size: .9em; color: #000000; text-align: left; margin-left: auto; margin-right: auto; background-color: #FFFFCC;}
+.breakrow {font-weight: normal; font-size: .9em; color: #000000; text-align: left; margin-left: auto; margin-right: auto; background-color: #E6E6E6}
+.tdbox {border: solid black 1px; padding: 5}
+.tdborder {border:solid 3px; padding: 5}
+
+table.button {border: 0; cellspacing: 0; cellpadding: 0}
+.titlerow {font-weight: bold; font-size: 1em; text-align: center; background-color: whitesmoke; margin-left: auto; margin-right: auto; }
+.colright {border:0; cellspacing: 0; cellpadding: 0; font-weight: normal; font-size: 1em; color: whitesmoke; text-align: right; margin-left: auto; margin-right: auto; background-color: #FFFFCC;}
+.colleft {border:0; cellspacing: 0; cellpadding: 0; font-weight: normal; font-size: 1em; color: whitesmoke; text-align: left; margin-left: auto; margin-right: auto; background-color: #FFFFCC;}
+
+table.courses {border: solid black 2px; border-collapse: collapse;}
+.headrow {border: 0; font-weight: bold; font-size: 1.25em; text-align: center; background-color: gray; margin-left: auto; margin-right: auto;}
+.courserow {border: 0; font-weight: bold; font-style: italic; font-size: 1em; text-align: center; background-color: lightgray; margin-left: auto; margin-right: auto;}
+.datarow {font-weight: normal; font-size: .9em; color: #000000; text-align: left; margin-left: auto; margin-right: auto; background-color: whitesmoke;}
+.topborderrow {font-weight: normal; font-size: .9em; color: #000000; text-align: left; margin-left: auto; margin-right: auto; background-color: whitesmoke; border-top: solid black 1px;}
+.tdcenter {vertical-align: top;text-align: center}
+.tdsessionhead {vertical-align: top; text-align: center; border-left: solid black 1px; border-right: solid black 1px; border-top: solid black 1px; padding: 10px}
+.tdsessionbody {vertical-align: top; text-align: center; border-left: solid black 1px; border-right solid black 1px; cellpadding: 0; cellspacing: 0; padding: 10px; width: 10%}
+.tdcenterbox {vertical-align: top; text-align: center; border: solid black 1px; padding: 10px}
+.tdborderleft {vertical-align: top; text-align: left; border-left: solid black 1px; padding: 10px; width: 30%}
+.tdborderright {vertical-align: top; text-align: left; border-right: solid black 1px; padding: 10px; width: 30%}
+.tdright {vertical-align: top; text-align: right; font-weight: bold; border-top: solid black 1px}
+.tdleft {vertical-align: top;text-align: left; border-top: solid black 1px}
+.tdrightmiddle {vertical-align: top; text-align: right; font-weight: bold}
+.tdleftmiddle {vertical-align: top;text-align: left}
+.tdsession {vertical-align: top}
+tr.general {border: 0; font-size: .9em; font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: normal; padding=0; border=0; text-align:left}
+tr.trborder {outline: thin solid;;}
+td.bottom {vertical-align: bottom;}
+td.center {vertical-align: center;}
+td.bold {font-weight: bold; vertical-align: top;}
+.tdfooterrow {padding-top: 15px; vertical-align: bottom}
+
+hr {border: 0; height: 5px; color: rgb(0,64,165); background-color: rgb(0,64,165)}
+
+hr.gradient_blue {border: 0; height: 5px; background: #63C; background-image: -webkit-linear-gradient(left, #0040A5, #0000FF , #0040A5); 
+	background-image: -moz-linear-gradient(left, #0040A5, #4169E1 , #0040A5); background-image: -ms-linear-gradient(left, #0040A5, #4169E1 , #0040A5);
+	background-image: -o-linear-gradient(left, #0040A5, #4169E1, #0040A5);}
+
+hr.shadow {height: 10px; border: 1; box-shadow: inset 0 9px 9px -3px rgba(32,96,192,0.8); -webkit-border-radius: 5px; -moz-border-radius: 5px; -ms-border-radius: 5px;
+	-o-border-radius: 5px; border-radius: 5px;}
+
+hr.dash {background-color: #fff; border: 3px dotted; height: 3px; color: black}
+
+hr.gray {border: 1; height: 3px; color: #C0C0C0; background-color: #C0C0C0}
+
+ul {padding-left: 11; margin-left: 11}
+
+.litest {background-image: url(dinnermeetings_files/image001.gif); background-repeat: no-repeat; background-position: 0 .4em; padding-left: 2em; padding-top: 10}
+
+ul.disc {list-style-type: disc; padding-left: 20; margin-left: 20;}
+
+ul.circle {list-style-type: circle; padding-left: 20; margin-left: 20}
+
+ol.number {
+	list-style-type: decimal;
+}
+
+ol.roman {
+	list-style-type: upper-roman;
+}
+
+ol.alpha {
+	list-style-type: lower-alpha;
+}
+
+#navigator {
+
+text-align: left;
+
+}
+
+.td, .tr {border:0}
+
+#navcenter{
+
+text-align: center;
+
+}
+
+#navcenter{
+
+text-align: -moz-center;
+
+}
+
+.navbutton {
+
+font-weight: bold;
+
+text-align: center;
+
+margin-bottom: 3px;
+
+margin-top: 3px;
+
+}
+
+.navbutton a {
+
+padding: 4px;
+
+text-decoration: none;
+
+display: block;
+
+color: #224059;
+
+background-color: #b5c9e2;
+
+border-top: 2px #cce3ff solid;
+
+border-left: 2px #cce3ff solid;
+
+border-bottom: 2px #31557f solid;
+
+border-right: 2px #31557f solid;
+
+}
+
+.navbutton a:hover {
+
+background-color: #99aabf;
+
+border-top: 2px #31557f solid;
+
+border-left: 2px #31557f solid;
+
+border-bottom: 2px #cce3ff solid;
+
+border-right: 2px #cce3ff solid;
+
+}
+
+.tablebutton {
+
+width: 125pt;
+
+font-size: 10pt;
+
+font-weight: bold;
+
+text-align: center;
+
+margin-bottom: 3px;
+
+margin-top: 3px;
+
+}
+
+.tablebutton a {
+
+padding: 4px;
+
+text-decoration: none;
+
+display: block;
+
+color: #E6E6FA;
+
+background-color: #224059;
+
+border-top: 3px #cce3ff solid;
+
+border-left: 3px #cce3ff solid;
+
+border-bottom: 3px #31557f solid;
+
+border-right: 3px #31557f solid;
+
+}
+
+.tablebutton a:hover {
+
+background-color: #99aabf;
+
+color: black;
+
+border-top: 3px #31557f solid;
+
+border-left: 3px #31557f solid;
+
+border-bottom: 3px #cce3ff solid;
+
+border-right: 3px #cce3ff solid;
+
+}
+
+.extrabutton {
+
+width: 200pt;
+
+font-size: 10pt;
+
+font-weight: bold;
+
+text-align: center;
+
+margin-bottom: 3px;
+
+margin-top: 3px;
+
+}
+
+.extrabutton a {
+
+padding: 4px;
+
+text-decoration: underline;
+
+display: block;
+
+color: #E6E6FA;
+
+background-color: #2F4F4F;
+
+border-top: 3px #5F9EA0 solid;
+
+border-left: 3px #5F9EA0 solid;
+
+border-bottom: 3px #5F9EA0 solid;
+
+border-right: 3px #5F9EA0 solid;
+
+}
+
+.extrabutton a:hover {
+
+background-color: #66CDAA;
+
+color: black;
+
+border-top: 3px #8FBC8F solid;
+
+border-left: 3px #8FBC8F solid;
+
+border-bottom: 3px #8FBC8F solid;
+
+border-right: 3px #8FBC8F solid;
+
+}
+
+
+.newsbutton {
+
+width: 125pt;
+
+font-size: 10pt;
+
+font-weight: bold;
+
+text-align: center;
+
+margin-bottom: 3px;
+
+margin-top: 3px;
+
+}
+
+.newsbutton a {
+
+padding: 4px;
+
+text-decoration: underline;
+
+display: block;
+
+color: 	#2EFEF7;
+
+background-color: #2F4F4F;
+
+border-top: 3px #5F9EA0 solid;
+
+border-left: 3px #5F9EA0 solid;
+
+border-bottom: 3px #5F9EA0 solid;
+
+border-right: 3px #5F9EA0 solid;
+
+}
+
+.newsbutton a:hover {
+
+background-color: #66CDAA;
+
+color: black;
+
+border-top: 3px #8FBC8F solid;
+
+border-left: 3px #8FBC8F solid;
+
+border-bottom: 3px #8FBC8F solid;
+
+border-right: 3px #8FBC8F solid;
+
+}
+
+.edubutton {
+
+width: 125pt;
+
+font-size: 10pt;
+
+font-weight: bold;
+
+text-align: center;
+
+margin-bottom: 3px;
+
+margin-top: 3px;
+
+}
+
+.edubutton a {
+
+padding: 4px;
+
+text-decoration: none;
+
+display: block;
+
+color: #E6E6FA;
+
+background-color: #8A0829;
+
+border-top: 3px #cce3ff solid;
+
+border-left: 3px #cce3ff solid;
+
+border-bottom: 3px #31557f solid;
+
+border-right: 3px #31557f solid;
+
+}
+
+.edubutton a:hover {
+
+background-color: #F78181;
+
+color: black;
+
+border-top: 3px #31557f solid;
+
+border-left: 3px #31557f solid;
+
+border-bottom: 3px #cce3ff solid;
+
+border-right: 3px #cce3ff solid;
+
+}
+
+
+.testbutton {
+
+width: 125pt;
+
+font-size: 10pt;
+
+font-weight: bold;
+
+text-align: center;
+
+margin-bottom: 3px;
+
+margin-top: 3px;
+
+}
+
+.testbutton a {
+
+padding: 4px;
+
+text-decoration: none;
+
+display: block;
+
+color: #E6E6FA;
+
+background-color: #0B610B;
+
+border-top: 3px #cce3ff solid;
+
+border-left: 3px #cce3ff solid;
+
+border-bottom: 3px #31557f solid;
+
+border-right: 3px #31557f solid;
+
+}
+
+.testbutton a:hover {
+
+background-color: #01DF74;
+
+color: black;
+
+border-top: 3px #31557f solid;
+
+border-left: 3px #31557f solid;
+
+border-bottom: 3px #cce3ff solid;
+
+border-right: 3px #cce3ff solid;
+
+}
+
+/* Dropdown Button */
+.dropbtn {
+
+color: #000000;
+
+background-color: #FFFFFF;
+
+    font-size: 16px;
+    cursor: pointer;
+    data-toggle:dropdown;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #99aabf;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/* Dropdown button on hover & focus */
+.dropdown:hover .dropdown-content, .dropbtn:focus  {
+display: block;
+
+background-color: #99aabf;
+
+color: black;
+
+border-top: 3px #31557f solid;
+
+border-left: 3px #31557f solid;
+
+border-bottom: 3px #cce3ff solid;
+
+border-right: 3px #cce3ff solid;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+	 padding: 5px 16px;	
+	 text-decoration: none;   
+    display: block;
+    font-size: 14px;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+	background-color: #f1f1f1; 
+	font-size: 14px;
+	}
+
+.dropdown-toggle {display:none;}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;}

@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta charset="UTF-8">
+<title>ASQ-Harrisburg</title>
+
+<!--[if lt IE 9]>
+   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+ <![endif]-->
+
+<link rel="stylesheet" href="asqHarrisburgII.css" type="text/css">
+</head>
+
+<body>
+<header>
+<img src="ASQ_LogoSmall.bmp" alt="ASQ Logo" />
+</header>
+
+<nav>
+	
+<ul>
+  <li><a href="http://www.asq-harrisburg.org">Home</a></li>
+  <li><a href="#" aria-haspopup="true">Section Information </a>
+   <ul>
+    <li><a href="http://www.asq-harrisburg.org/officers.php">Section Officers</a></li>
+    <li><a href="#" aria-haspopup="true">Section News and Events</a>
+    	<ul>
+			<li><a href="http://www.asq-harrisburg.org/home_files/Harrisburg ASQ Newsletter May 2017.pdf" target="_blank">Present Quality Currents</a></li>
+			<li><a href="http://www.asq-harrisburg.org/newsletter.php">Past Quality Currents</a></li> 
+			<li><a href="http://www.asq-harrisburg.org/events.php">Events</a></li> 
+			<li><a href="http://www.asq-harrisburg.org/news.php">News</a></li>	
+    	</ul>
+    </li>
+    </ul>
+    </li>
+   
+  <li><a href="#" aria-haspopup="true">Meetings</a>
+    <ul>
+      <li><a href="http://www.asq-harrisburg.org/dinnermeetings.php">Current Meeting & Registration</a></li>
+      <li><a href="http://www.asq-harrisburg.org/dinnermeetingschedule.php">Meeting Schedule</a></li>
+      <li><a href="http://www.asq-harrisburg.org/dinnermeetinginfo.php">General Meeting Information</a></li>
+    </ul>
+  </li>
+  <li><a href="#" aria-haspopup="true">Career Services</a>
+    <ul>
+      <li><a href="http://www.asq-harrisburg.org/placement.php">Employment Opportunities</a></li>
+      <li><a href="http://www.asq-harrisburg.org/education.php">Education and Training</a></li>
+      <li><a href="http://www.asq-harrisburg.org/certifications.php">Certification</a></li>
+      <li><a href="http://www.asq-harrisburg.org/Placement_Resumes.php">Posted Resumes</a></li>
+    </ul>
+  </li>
+</ul> 
+
+</nav>

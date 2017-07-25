@@ -1,0 +1,266 @@
+<html xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<link href="asqhburg.css" type="text/css" rel="stylesheet">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<base target="_self">
+<link rel=File-List href="Placement_Resumes_files/filelist.xml">
+<link rel=Edit-Time-Data href="Placement_Resumes_files/editdata.mso">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+</head>
+
+<body bgcolor="#FFFFCC" lang=EN-US>
+<?php include_once("navTop.html"); ?>
+<?php include_once("analyticstracking.php") ?>
+
+<br/><br/>
+<hr class="gradient_blue" />
+
+<table id=link>
+<tr class=titlerow><td colspan=3><p class=gen_header>Jump to Resumes Listed Below:</p></td></tr>
+<tr class=linkrow><td class=tdbox><p class=gen_footer>Joseph F. Szepesi</p></td>
+ <td class=tdbox><a href="#JS" target="_self">View resume on this page</a></td>
+ <td class=tdbox><a href="http://www.asq-harrisburg.org/Placement_Resumes_files/J  Szepesi Resume - Q Aud.pdf" target=blank>Download this resume</a></td></tr>
+<tr class=linkrow><td class=tdbox><p class=gen_footer>Kenneth Gimi</p></td>
+ <td class=tdbox><a href="#KG" target="_self">View resume on this page</a></td>
+ <td class=tdbox><a href="http://www.asq-harrisburg.org/Placement_Resumes_files/KGimmiResume1503.pdf" target=blank>Download this resume</a></td></tr>
+</table>
+
+<hr class="gray" />
+
+<table id=general>
+<tr class=footerrow><td class=tdborder><a name=JS></a>Posted: 08/5/2014</td></tr>
+<tr><td class=tdborder><p class=center>Joseph F. Szepesi
+ <p class=c_emphasis>21836 Linden Way <br />Rogers, MN 55374</p></p>
+ <p class=emphasis_head>(763) 428-9987 Home<br />(763) 229-0207 Cell <br /><a href="mailto:jeszepesi@comcast.net?subject=Resume">E-mail:jeszepesi@comcast.net</a></p>
+ <p class=gen_header>PROFESSIONAL STRENGTHS<p>
+ <p class=general>QUALITY SYSTEM IMPLEMENTATION, REGISTRATION, MAINTENANCE & IMPROVEMENT - 
+QUALITY SYSTEM ASSESSMENT (INTERNAL AND EXTERNAL) - QA / QC MANAGEMENT - TRAINER / FACILITATOR
+<br />
+An effective Quality Practitioner with an emphasis for Quality System / Quality Standards assessment, implementation, and Management; Possesses a pragmatic understanding of the role of the Quality Assurance activity with the ability to implement realistic systems that support the organization and significantly enhance customer satisfaction, internal compliance, and regulatory compliance. Strong work ethic and integrity, well organized team leader, strong written and verbal communicator, trainer / facilitator, self-motivated individual. </p>
+<p class=gen_header>EXECUTIVE SUMMARY</p>
+<ul class=circle>
+ <li>Career Quality Professional</li>
+ <li>Total Quality Systems - ISO 9001, 820 QSR, 21 CFR 210/211, ISO 13485, ISO 17025, JMO 169:2004, Baldrige</li>
+ <li>Verbal / Written Communication - Trainer/Facilitator, Manuals, Procedures, Work Instructions, Customer Surveys.</li>
+ <li>Facilitating ISO-Based Quality Management System Implementation Through Teams</li>
+ <li>Performing Quality Engineering / 6 Sigma Techniques - SPC, SQC, FMEA, Flow Charting, Pareto Analysis, Acceptance Sampling, Process Capability, Inspection, Supplier Certification, Group Problem Solving</li>
+ <li>Leading "Requirements Based Assessments (RBA)" of Suppliers</li>
+ <li>Leading "REPACE" Supplier Assessments (FMEA Based Process Controls Assessment)</li>
+ <li>Leading Radiation (E-Beam and Gamma) and Ethylene Oxide Sterilization Supplier Assessments - EN ISO 11137:2006 and EN ISO 11135:2007</li>
+ <li>Performing Quality System Gap Analyses / Audits - ISO 13485, 820 QSR, ISO 9001, ISO 17025, Baldrige</li>
+ <li>Continuous Improvement of Quality Systems Through ISO 9004:2000; ISO/TR 14969:2003</li>
+ <li>Experience in Managing Hourly Employees and Middle Management Personnel (3 Shift Operations).</li>
+ <li>Experience as ISO Quality System Management Representative / Lead Auditor (Internal and External)</li>
+</ul>
+<p class=gen_header>PROFESSIONAL EXPERIENCE</p>
+<p class=info_header>Principal Supplier Quality Eng. / L. Aud. - Boston Scientific Global Supplier Quality Mgmt. (Promotion) Mar. 2011 to Present<br />
+Sr. Supplier Quality Eng. / L. Aud. - Boston Scientific CRV Supplier Quality Management (Re-Org)	July 2010 to Feb. 2011<br />
+Sr. Supplier Quality Eng. / L. Aud. - Boston Scientific Corp. Supplier Quality Mgmt.-Midwest (Promotion) Jan. '08 to Jun '10<br />
+Sr. Supplier Quality Auditor:  Boston Scientific Corp. Supplier Quality Mgmt. - Midwest	March 2006 to December 2007</p>
+<p class=general>In my position as Principal Supplier Quality Engineer, I lead and perform audits in order to support for activities related to supplier selection and evaluation, supplier performance, and strategic procurement project support. This includes performing detailed audits of practices at suppliers' manufacturing / service facilities to ensure that policies and procedures comply with FDA regulations and applicable ISO standards; Ensuring that the suppliers' quality management system and process controls are effective; Reporting on weaknesses, ineffective procedures, policy exceptions / discrepancies and recommending appropriate corrective actions; Consulting with suppliers' management to establish and implement practices and procedures that comply with BSC requirements; Mentoring / training new BSC auditors; Contributing to the development and improvement of the Supplier Quality Management processes and procedures.<br />
+In addition, I perform Internal EO Sterilization Process Audits at Boston Scientific Corp. (BSC) Coventry RI Ethylene Oxide Sterilization Facility.</p>
+<ul class=circle><li>Contributed to the improved quality system and regulatory performance of the BSC Contract Sterilization Suppliers, by means of effective BSC Supplier Controls, which resulted in the reduction of On-Site Assessment Frequency starting in June 2011.</li>
+	<li>Successfully assessed and worked with the BSC Sterilization Suppliers regarding the new BSC requirement of compliance to Japan Ministerial Ordinance 169:2004.</li>
+	<li>Continue acting as Subject Matter Expert for Sterilization Supplier Controls and Audit Management in support of Corporate and Site Internal  and External Assessments.</li>
+	<li>Quality Management System assessment responsibility for 71 BSC (External) Suppliers in the US and Costa Rica (Sterilization, Calibration Labs, and Dimensional Inspection Labs) using various assessment techniques. (QMS Compliance, Requirements Based Assessments, FMEA-Based Process Control Assessments).</li>
+	<li>Management of Supplier Audit Nonconformances and Supplier Corrective Action Requests.</li>
+	<li>Supporting the development of CRV Supplier Quality infrastructure by working with management on the development and enhancement of critical Supplier / Purchasing processes and procedures. (Member of the BSC Divisional AVL Transition Team).</li>
+	<li>Supporting the activities as related to BSC Corporate Sterilization Services initiatives and controls.</li>
+	<li>Established a value-added partnership relationship with BSC's Sterilization, Analytical Laboratory, Biological Indicator, Radiation Dosimeter, Biocompatibility / Toxicology, and Equipment Calibration Service Suppliers.</li>
+	<li>Enjoy a Good, Teamwork-Based Relationship with Internal BSC Corporate Sterilization Services - North America, BSC Corporate Sterilization Services - Ireland, BSC Global Sterilization Planning, BSC Corporate Biocompatibility & Toxicology, BSC Corporate Microbiology Laboratory, BSC Coventry RI Facility, and BSC Spencer IN Facility.</li>
+	<li>Experience in leading Quality Management System audits of various other industries: Plastic Injection Molding, Precision Metal Component Machining, Analytical / Chemical Labs, Calibration / Dimensional Inspection Labs, Microbiology Testing Labs, Biological Indicator Manufacture / Labs, and Radiation Dosimeter Manufacture / Labs</li>
+</ul>
+<p class=info_header>Quality Manager:  Graham Packaging Co., Casa Grande AZ&nbsp&nbsp&nbsp&nbsp&nbsp&nbspJuly 2005 to December 2005</p>
+<p class=general>Graham Packaging is an international manufacturer of various types of thermoplastic packaging containers. The Casa Grande plant uses the extrusion blow molding process for the manufacture of plastic bottles for the Food and Beverage Division of Graham. 
+As Quality Manager, I was personally responsible for the quality of the Casa Grande products. This is achieved by product inspection and measurement / surveillance of the activities of personnel (40% of time), assuring that procedures are followed, and managing the activities of 1 Quality Technician and 4 Quality Inspectors. Other duties included new product / equipment qualifications, GMP compliance, and one-on-one customer relations.
+In addition to my plant duties as described above, I indirectly reported to Graham Corporate Quality Management who directed my activities regarding corporate / divisional quality issues and initiatives.</p>
+<ul class=circle><li>Improved the Casa Grande quality system to result in a successful major customer audit.</li>
+	<li>Improved the Casa Grande quality system to result in a successful Arizona Dept. of Agriculture audit.</li>
+	<li>Created a document control system for the Casa Grande plant.</li>
+	<li>Improved / personalized relations with the plant's two major customers.</li>
+</ul>
+<p class=info_header>QMS Coordinator:  Crescent Industries, Inc., New Freedom PA&nbsp&nbsp&nbsp&nbspFebruary 2005 to July 2005 (Business Restructuring)<br />
+Quality Manager:  Crescent Industries, Inc., New Freedom PA&nbsp&nbsp&nbsp&nbsp&nbsp&nbspNovember 1997 to February 2005</p>
+<p class=general>Crescent is a custom injection molder of thermoplastic parts for Medical, Electronics, and Consumer applications. As Quality Manager, I managed the day-to-day activity of the Crescent Quality Department. I was also the Crescent ISO 9001-2000 Management Representative. In addition to my ISO 9001 duties, my responsibilities included the management of the Document Control System,  external and internal product defect investigation / corrective and preventive action, membership in the Staff Management Team, the Executive Committee, and the Contract Review Team. I was also the Facilitator of the Material Review Board and the Monthly General Plant Meeting, Lead Assessor and manager of the internal quality system audit team. At Crescent, I supervised 3 Quality Inspectors, 3 Quality Technicians, and 1 Document Control Clerk.</p>
+<ul class=circle><li>Successfully led the Crescent Molding Div. to ISO 9002:1994 Registration in 9 Months.</li>
+	<li>Maintained Crescent's ISO 9000 Registration from 1998 to 2005 with only 2 minor non-compliances.</li>
+	<li>Created the Crescent Internal Auditing, CAPA, Documentation Structure, and MRB programs.</li>
+	<li>Designed the Crescent Customer Satisfaction and Loyalty Survey.</li>
+	<li>Successfully led the Crescent Molding Div. to ISO 9001:2000 Upgrade Registration.</li>
+	<li>Led APQP and PPAP activities specific to an electronics customer's products.</li>
+</ul>
+<p class=info_header>Quality Manager:  PlastiCert, Inc., Stewartstown, PA&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspOctober 1995 to November 1997</p>
+<p class=general>PlastiCert is a custom injection molder of thermoplastic parts serving the electronic connector industry.</p>
+<ul class=circle><li>Led the efforts to bring customer complaints / corrective actions under control.</li>
+	<li>Created and facilitated the Material Review Board (MRB).</li>
+	<li>Created an Engineering Document Change Control system.</li>
+	<li>Created Product Quality Inspection Plans.</li>
+</ul>
+<p class=info_header>Director of Quality Systems:  Stylette Plastics, Oakdale PA&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspJuly 1992 to October 1995</p>
+<p class=general>Before Stylette decided to discontinue the pursuit of ISO 9001, my major responsibility was to lead the efforts in the implementation and maintenance of the ISO 9001 Standard as the designated "Management Representative". My training as an ISO 9000 Lead Assessor also qualified me to perform Gap Analyses, Internal Quality Audits and Supplier Quality System Evaluations. I was also responsible for introducing and maintaining ongoing quality procedures as well as performing material quality testing, product quality testing, and R and D on new materials and products at this custom plastic injection molder.</p>
+<ul class=circle><li>Created, from scratch, the basics of a formal ISO 9001:1994 quality system.</li>
+</ul>
+<p class=info_header>Quality Engineer:  Campbell Chain Plant of Cooper Hand Tools Div., York, PA&nbsp&nbsp &nbsp &nbsp &nbsp &nbspMay 1988 to July 1992</p>
+<p class=general>As Plant Quality Engineer, I managed the day-to-day activities of the Quality Assurance Department.  Activities included Receiving QC, In-Process QA, SPC, Final Inspection, Corrective Action, Supplier Relations, Customer Complaint Analysis, and Certificates of Conformance. Products manufactured are Welded and Weldless Chain and other Lifting Products.</p>
+<ul class=circle><li>Reduced 100% Inspection Activity Resulting in a $140,000 Per Year Savings.</li>
+	<li>Supervised 17 Hourly Employees.</li>
+	<li>Pioneered the use of SQC by the Production Operators.</li>
+	<li>Co-Authored the Divisional ISO 9001:1987 Quality System Manual.</li>
+	<li>Participated as a Member of the Cooper Hand Tools Divisional Quality Council.</li>
+</ul>
+<p class=info_header>Earlier Professional Development</p>
+<p class=general>From 1976 to 1988, I held positions in the areas of Quality Engineering and Technical Service. Career advancement and growth was concentrated in the quality profession body of knowledge. Details of employment history during that time will be furnished upon request. In addition to my experience in Medical Devices, other industry experience includes Injection Molding, Sheet Metal Coating / Lithography, and the Packaging Industry (the manufacture of Blow-Molded Plastic Bottles, 3-Piece Metal Cans, Spirally Wound Composite Cans, Paper / Plastisol Lined Metal Closures, and Injection Molded Plastic Closures.</p>
+<table id=pad><tr class=titlerow>COMPUTER SOFTWARE USE</tr>
+<tr class=datarow><td>Windows XP and 7</td><td>SPC-PC IV</td><td>Microsoft Word</td><td>Microsoft Excel</td><td>Microsoft Visio</td></tr>
+<tr class=datarow><td>Document Manager 9000</td><td>Microsoft PowerPoint</td><td>SAP</td><td>Microsoft Outlook</td></tr></table>
+<p class=gen_header>EDUCATION</p>
+<p class=general>Saint Vincent College, Latrobe PA<br />
+Bachelor of Science 1975 - Biology<br />
+Graduated With Honors (3.325 GPA)<br />
+Member Biology Club, DJ WSVC College Radio</p>
+<p class=gen_header>CERTIFICATIONS AND TRAINING</p>
+<p class=general>Member of the American Society for Quality (ASQ)<br />
+American Society for Quality (ASQ) Certified Quality Engineer<br />
+Member of ASTM Subcommittee E61 - Radiation Processing<br />
+ISO 13485:2003 Lead Assessor Training and Experience<br />
+ISO 9000:1994 Lead Assessor Training and Experience<br />
+cGMP / QSR 820 / 21 CFR 210/211 Quality System Regulation Training and Experience<br />
+ISO/IEC 17025:2005 Auditor Accreditation and Experience<br />
+Former Officer in the Pittsburgh Area ISO 9000 Users Group<br />
+Examiner for the 1994 Pennsylvania Quality Leadership Awards (Malcolm Baldrige National Quality Award Criteria)<br />
+Pharmaceutical Manufacturing cGMP Training<br />
+2012 ASTM "Workshop on Dosimetry for Radiation Processing (Gamma, E-Beam, X-Ray)<br />
+AAMI "Radiation Sterilization for Medical Devices"<br />
+Boston Scientific "Ethylene Oxide Sterilization Cycle Processes"</p>
+
+
+<p class=general><a href="#Top" target="_self">Return to Top</a></p>
+
+
+<tr class=footerrow><td class=tdborder><a name=KG></a>Posted: 03/31/2015</td></tr>
+<tr><td class=tdborder><p class=center>Kenneth Gimi
+ <p class=c_emphasis>Ephrata, PA 17522</p></p>
+ <p class=emphasis_head>(717) 271-2967<br /><a href="mailto:kenneth.gimmi@gmail.com?subject=Resume">E-mail:kenneth.gimmi@gmail.com</a></p>
+ <p class=emphasis_head><a href="http://www.kengimmi.com" target="blank">www.kengimmi.com</a></p>
+ 
+ <p class=general>Accomplished, visionary, and effective Quality Manager with extensive experience in Quality Systems, Quality Assurance, Lean Manufacturing, Team Development, Process Improvement, Public Speaking, Customer Service, Revenue Growth, and ISO Compliance within manufacturing and job shop environments. Recognized for exceptional ability to streamline procedures that improve quality standards and productivity. Proven communicator, fostering trusting and long-lasting relations with management, team members, vendors, investors, contractors, clients, and community at large, consistently achieving and exceeding quality, service, and profitability goals. Demonstrated leadership in Quality Meetings and ASQs with utmost quality standards.</p>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody>
+<tr><td>Problem Resolution</td><td>Statistical & Market Analysis</td><td>Idea Generation & Implementation</td></tr>
+<tr><td>Team Development & Training</td><td>Quality Management</td><td>Public Speaking & Presentations</td></tr>
+<tr><td>Profit & Loss</td><td>Audit Programs</td><td>Group Facilitation </td></tr>
+<tr><td>Process Improvement</td><td>Lean Manufacturing Six Sigma</td><td>Organizational Change</td></tr>
+<tr><td>Customer Service & Retention</td><td>Plan-Do-Check-Act (PDCA)</td><td>Value Stream Mapping (VSM)</td></tr>
+<tr><td>System Analysis & Evaluation</td><td>ISO 9000</td><td>ISO 17025 Accreditation</td></tr></tbody></table>
+
+<p class=general>Calypso Software  |  MS Office  |  Visio  |  Advanced Excel  |  MiniTab</p>
+
+<p class=gen_header>EXPERIENCE & NOTABLE CONTRIBUTIONS</p>
+
+<p class=info_header>BRENTWOOD INDUSTRIES - Denver, PA - 2015- Present</br>
+QUALITY ASSURANCE MANAGER</p>
+
+<ul class=circle>
+ <li>Enhanced ISO based quality system and expedited work instructions by 25% via flow charting</li>
+ <li>Wrote validation protocols for FDA approval for medical device customer accounting for $250K in revenue</li>
+ <li>Increased customer satisfaction by 35% in collaboration with multidisciplinary team of 7 members in implementing corrective action plans for injection molding of medical device components</li>
+ <li>Improved clean room move with Process Failure Mode Effects Analysis (PFMEA) and APQP</li>
+</ul>
+
+<p class=emphasis>Key Accomplishments:</p>
+<ul class=circle>
+ <li>Accountable for $370K in net savings by repairing and retesting defective testing machine, resulting in reclamation of 85% of misidentified rejected scrap</li>
+ <li>Reduced rejections on injection molding process by 25% through real-time monitoring of critical inputs such as temperature, clamping pressure, and timings via control charting</li>
+ <li>Proposed two Black Belt projects representing potential corporate savings of $800K+ to one product line following 120-hour Lean Six Sigma Black Belt course through Plastics Innovation and Resource Center</li>
+ <li>Diagnosed machine problem, replaced load cell, and upgraded software that improved efficiencies and productivity by 75% while slashing overhead costs by $50K</li>
+</ul>
+
+<p class=info_header>GURECKY MANUFACTURING SERVICE - Rosenberg, TX - 2011-2014</br>
+QUALITY INSPECTOR</p>
+
+<ul class=circle>
+ <li>Ensured ISO 9001 certification for company by writing and diagramming required quality processes as well as creating PowerPoint and video instructions for optimal clarity</li>
+ <li>Improved measurement capability with 20% improved accuracy using Gauge R&R practices</li>
+ <li>Designed Excel Database Tracking program and generated streamlined monthly management report that enhanced management discrepancy analysis by 75%</li>
+</ul>
+
+<p class=emphasis>Key Accomplishments:</p>
+<ul class=circle>
+ <li>Flow charted 5 processes to simplify Quality Manual procedures improving quality standards by 35%</li>
+ <li>Evaluated existing testing equipment and initiated needed repairs, with improved equipment longevity of 70%</li>
+ <li>Identified malfunctioning CMM, leading to manufacturer replacing machine for free ($150K savings), followed with specifications for a second new CMM and retrofitting of other older machine</li>
+ <li>"	Implemented small hand tools and thread ring calibration in-house to prevent gauging issues that saved $2K in cost and 20% in idle time</li>
+</ul>
+
+<p class=info_header>HAVEN ON THE BRAZOS/HAVEN IMAGES - Rosenberg, TX - 2002-2011</br>
+OWNER & OPERATOR</p>
+
+<ul class=circle>
+ <li>Operated wedding, event, and photography business averaging up to $1.2MM in annual revenue</li>
+ <li>Operated wedding, event, and photography business averaging up to $1.2MM in annual revenue</li>
+ <li>Managed 20 vendors and hired, trained, and guided 9 employees while maintaining 75% in employee retention</li>
+ <li>Secured $157K in client accounts, receiving an average of 98% in positive customer feedback</li>
+</ul>
+
+<p class=info_header>EXCEL PARTNERSHIP - Sandy Hook, CT - 1996-2002</br>
+SENIOR CONSULTANT</p>
+
+<ul class=circle>
+ <li>Designed and taught 300+ courses on calibration systems, measurement uncertainty, and ISO 17025 systems implementation to over 1,000 corporate clients</li>
+ <li>Presented internationally in public classes of 20-120 participants at various ASQ conferences, Quality business meetings, as well as companies including Chrysler, GM Powertrain, Lexmark, US Navy, and Bimbo Bread</li>
+ <li>Represented company to National Conference of Standard Laboratories with 1,000+ member organizations</li>
+ <li>Received 93% rating in client satisfaction surveys, securing 11% in referrals</li>
+</ul>
+
+<p class=info_header>QMT QUALITY SERVICES GROUP - LaPlata, MD - 1992-1996</br>
+SENIOR CONSULTANT/LEAD AUDITOR</p>
+
+<ul class=circle>
+ <li>Served as contract ISO 17025 A2LA Lead Assessor for dimensional and electrical scopes</li>
+ <li>Performed accreditation audits for Starrett, Tinius Olsen, and others as assessor for the American Association for Laboratory Accreditation</li>
+ <li>Executed internal audits against ISO 9001, GMP, and ISO 13489 requirements</li>
+ <li>Consulted with 20+ clients, successfully developing and improve quality systems by 85%</li>
+</ul>
+
+<p class=gen_header>ADDITIONAL WORK EXPERIENCE</p>
+<p class=general>Senior Quality Engineer/Auditor - BERETTA USA - Accokeek, MD</br>
+Quality Manager - MACHINERY PRODUCTS - Lancaster, PA</p>
+
+<p class=gen_header>EDUCATION & PROFESSIONAL DEVELOPMENT</p>
+<p class=general>Master's Degree, GRACE THEOLOGICAL SEMINARY, Winona Lake, IN</br>
+Bachelor's Degree in Biology, WIDENER UNIVERSITY, CHESTER, PA</br>
+
+UNIVERSITY OF CALIFORNIA, Irvine on Coursera
+<p class=emphasis>Effective Problem-Solving and Decision-Making, Jul 2015</br>
+Fundamentals of Management, May 2015</br>
+The Art of Negotiation, May 2015</br>
+Project Management- The Basics for Success, May 2015</br>
+Finance for Non-Financial Professionals, Apr 2015</p>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr class=mutedhead><td colspan=3>TRAINING</td></tr>
+<tr><td>Project Management (PERT & GANTT)</td><td>Leadership Excellence for Non-Profits</td><td>Geometric Dimensioning & Tolerance</td></tr>
+<tr><td>Statistical Process Control</td><td>Lean Six Sigma Black Belt</td><td>Advanced Zeiss Calypso</td></tr>
+<tr><td>CMM Aukom Level I</td><td>Statistical Methods in Research</td><td>Design of Experiments</td><tr>
+<tr><Td>Juran Leadership Training</td><td>Lead Auditor Training (ISO 9000)</td><td>Lead Assessor Training (ISO 17025)</td></tr></tbody></table>
+
+<p class=gen_header>CERTIFICATIONS & LICENSES</p>
+<p class=general>ASQ Certified Quality Engineer, Jun 2014-Jun 2017</br>
+ASQ Certified Manager of Quality/Organizational Excellence, Mar 2014-Jun 2017</br>
+ASQ Certified Quality Auditing, Dec 2013-Dec 2016</p>
+
+
+<p class=general><a href="#Top" target="_self">Return to Top</a></p>
+
+</td></tr></table>
+
+<a href="#" class="back-to-top">Back to Top</a>
+<script src=autoTop.js></script>
+
+</body>
+
+</html>
