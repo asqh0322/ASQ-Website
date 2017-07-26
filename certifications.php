@@ -31,7 +31,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 </div>
 </td></tr>
 <tr><td valign="top">
-<p class="gen_footer">Send certification journals to:</p>
+<p class="gen_footer">Send paper copy certification journals to:</p>
 </td>
 <td>
 <p class="gen_general">Michael Green<br />204 Fairway Drive<br />Mechanicsburg, PA 17055</p>
