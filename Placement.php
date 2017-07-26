@@ -49,7 +49,7 @@ members</a> </div>
 <td class="tdbox">
 <div class="dropdown"><button onclick="myFunction('jobMenu')" class="dropbtn" data-toggle="dropdown">View Job Postings</button>
 <div id="jobMenu" class="dropdown-content">
-<a href="#QT">Senior Quality Technician</a>
+<a href="#QT">No Current Postings</a>
 </div>
 </div>
 </td>
@@ -96,37 +96,23 @@ posted on the site!</p>
 </tr>
 <tr>
 <td class="tdbox"><a name="QT"></a>Posted:
-02/09/17</td>
+TBD</td>
 </tr>
 <tr>
 <td class="tdborder">
-<p class="section_header">Senior Quality Technician</p>
+<p class="section_header">No Current Posting</p>
 </td>
 </tr>
 <tr>
 <td class="tdborder">
 <p class="underline_head">Job Requirements:</p>
-<p class="general"><ul><li>Technical degree or equivalent experience.</li>
-<li>Strong technical and computer skills.</li>
-<li>ISO 9001 audit experience. </li>
-<li>PPAP experience</li>
-<li>Inspection experience</li>
-<li>Minimal travel</li></ul></p>
+<p class="general"><ul><li>No current requirements</li></ul></p>
 <p class="underline_head">Job Duties:</p>
 <p class="general">
-<ul><li>Plans and conducts analysis and inspection of products and components to assure acceptable quality.</li>
-<li>Performs calibration duties and maintains the calibration system</li>
-<li>Ensures quality department tools and equipment are in acceptable condition.</li>
-<li>Active in meeting ISO 9001</li>
-<li>Participates in completing PPAP requirements</li>
-<li>Assists with product inspections</li>
-<li>Communicates significant issues or developments identified during quality assurance activities and provides recommended process improvements.</li>
-<li>Active member of the Supplier Quality Review, Warranty Review and New Product Development teams.</li>
-<li>Applies statistical methods, documents data, prepares reports, and updates procedures to communicate results of quality assurance activities.</li>
-<li>Recommends methods for improving quality and efficiency, including documenting processes.</li> 
+<ul><li>NO current job duties</li>
 </ul>
 </p>
-<p class="general">To apply, send resume to: <a href="mailto:hrdepartment.af@gmail.com?Subject=Senior Quality Techincian">hrdepartment.af@gmail.com</a></p> 
+<p class="general">To apply, send resume to: <a href="mailto:noaddress@nogmail.com?Subject=No Posting">noaddress@noemail.com</a></p>
 
 <p class="general"><a href="#Top" target="_self">Return to Top</a></p>
 </td>
