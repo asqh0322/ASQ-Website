@@ -27,7 +27,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 
 <hr/>
 
-<table class=button> 
+<table class=button>
  <tr><td class=td><p class=general>Registration:</p></td>
  <td class=td><p class=general>5:30 - 6:30 p.m.</p></td></tr>
  <tr><td class=td><p class=general>Dinner:</p></td>
@@ -57,7 +57,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 
 <table><th><h3>Cost:</h3></th>
 
-<tr class=general><td class=bold>Pre-Registered:</td><td class=bottom>Section Members - $25.00 each | Guests/Non-Members - $30.00 | Students - $15.00</td></tr> 
+<tr class=general><td class=bold>Pre-Registered:</td><td class=bottom>Section Members - $25.00 each | Guests/Non-Members - $30.00 | Students - $15.00</td></tr>
 <tr class=general><td class=bold>At the Door:</td><td class = bottom>Section Members - $30.00 each | Guests/Non-Members - $35.00 | Students - $15.00</td></tr>
 <tr class=general><td class=bold>Note:</td><td class = bottom>If you are receiving an award and have already sent your RSVP, there is no need to register online.</td></tr>
 </table>
@@ -84,7 +84,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <table align="center"><tr><td>
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<fieldset> 
+<fieldset>
 <legend>Use the Pay Now button to complete registration and pay instantly</legend>
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="5A7HMMV3WC46Y">
@@ -109,7 +109,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 
 <h2>Directions</h2>
 
-<a href="http://www.sheratonharrisburghershey.com/directions" target="_blank">Sheraton Harrisburg Hotel Directions</a> 
+<a href="http://www.sheratonharrisburghershey.com/directions" target="_blank">Sheraton Harrisburg Hotel Directions</a>
 <br/>
   	 <!--<a href="http://www.redlion.com/harrisburg/maps" target="_blank">Red Lion Hotels Harrisburg Directions</a>-->
     <!--<a href="http://www.asq-harrisburg.org/Lancaster.pdf" target="_blank">Lancaster Hilton Garden Inn Directions</a>-->

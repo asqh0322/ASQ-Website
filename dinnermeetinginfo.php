@@ -32,10 +32,10 @@ If you make a reservation to attend a dinner meeting and find later that you are
 
 <p class=general>Dear Member</p>
 
-<p class=generalThe Executive Committee wants your experience at each of our dinner meetings to be the best that it can be; in fact, we want to guarantee the excellence of 
+<p class=generalThe Executive Committee wants your experience at each of our dinner meetings to be the best that it can be; in fact, we want to guarantee the excellence of
 the food and service quality no matter what venue we are using for Section meetings and presentations.</p>
 
-<p class=general>Please inform any Officer or Executive Committee member if a problem arises for you during the meeting and we will address your concern 
+<p class=general>Please inform any Officer or Executive Committee member if a problem arises for you during the meeting and we will address your concern
 immediately.  Please tell us, if:</p>
 
 <ul><li>The meal is not cooked properly</li>
@@ -44,7 +44,7 @@ immediately.  Please tell us, if:</p>
 <li>There is service problem of any kind.</li>
 </ul>
 
-<p class=general>We really want to know as soon as possible during the meeting rather than waiting until the end of the meeting and/or finding out on the comments form that 
+<p class=general>We really want to know as soon as possible during the meeting rather than waiting until the end of the meeting and/or finding out on the comments form that
 there was a problem or issue which we could have ameliorated on the spot.</p>
 
 <p class=general>Thank you!</p>

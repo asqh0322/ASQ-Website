@@ -20,7 +20,7 @@
 <tbody>
 <tr>
 <td>
-<h2>Upcoming Chapter Programs:</h2> 
+<h2>Upcoming Chapter Programs:</h2>
 <br>
 <p class="info_header">Next Dinner Meeting<br>
 June 14, 2017</p>
@@ -60,7 +60,7 @@ Class dates: March 20 – May 7, 2017</br>
 2017:</p>
 <p class="info_table"><i>Chair-Elect</i></p>
 </td>
-</tr> 	
+</tr>
 <tr>
 <td>
 <p class="info_header">On the Job Tip</p>

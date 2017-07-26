@@ -20,12 +20,12 @@ body {background-color: whitesmoke;}
 			display: none;
 		}
 
-.back-to-top:hover {	background-color: rgba(135, 135, 135, 0.50);	}	
+.back-to-top:hover {	background-color: rgba(135, 135, 135, 0.50);	}
 
 p.section_header {font-size: 1.25em; font-weight: bold; color: 004080; font-family: "Verdana, Helvetica, Arial, sans-serif"; text-align: center}
 p.info_header {font-size: 1em; font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: bold; padding = 0; border = 0; text-align: left}
 p.underline_head {font-size: 1em; text-decoration: underline;  font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: bold; padding = 0; border = 0; text-align: left}
-p.emphasis_head {font-size: 1em; font-color: black; font-style: Italic;   font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: bold; padding = 0; border = 0; text-align: left} 
+p.emphasis_head {font-size: 1em; font-color: black; font-style: Italic;   font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: bold; padding = 0; border = 0; text-align: left}
 p.info_table {font-size: 1em; font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: normal; padding = 0; border = 0; text-align: left}
 p.info_emphasis {font-size: 1em; font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: normal; padding = 0; border = 0; text-align: left; font-style: italic}
 p.gen_header {font-size: .9em; font-color: black; font-family: "Verdana, Helvetica, Arial, sans-serif"; font-weight: bold; padding=0; border=0; text-align:center}
@@ -96,7 +96,7 @@ td.bold {font-weight: bold; vertical-align: top;}
 
 hr {border: 0; height: 5px; color: rgb(0,64,165); background-color: rgb(0,64,165)}
 
-hr.gradient_blue {border: 0; height: 5px; background: #63C; background-image: -webkit-linear-gradient(left, #0040A5, #0000FF , #0040A5); 
+hr.gradient_blue {border: 0; height: 5px; background: #63C; background-image: -webkit-linear-gradient(left, #0040A5, #0000FF , #0040A5);
 	background-image: -moz-linear-gradient(left, #0040A5, #4169E1 , #0040A5); background-image: -ms-linear-gradient(left, #0040A5, #4169E1 , #0040A5);
 	background-image: -o-linear-gradient(left, #0040A5, #4169E1, #0040A5);}
 
@@ -514,15 +514,15 @@ border-right: 3px #cce3ff solid;
 /* Links inside the dropdown */
 .dropdown-content a {
     color: black;
-	 padding: 5px 16px;	
-	 text-decoration: none;   
+	 padding: 5px 16px;
+	 text-decoration: none;
     display: block;
     font-size: 14px;
 }
 
 /* Change color of dropdown links on hover */
 .dropdown-content a:hover {
-	background-color: #f1f1f1; 
+	background-color: #f1f1f1;
 	font-size: 14px;
 	}
 

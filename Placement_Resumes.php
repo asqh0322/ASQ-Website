@@ -36,7 +36,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <p class=c_emphasis>21836 Linden Way <br />Rogers, MN 55374</p></p>
  <p class=emphasis_head>(763) 428-9987 Home<br />(763) 229-0207 Cell <br /><a href="mailto:jeszepesi@comcast.net?subject=Resume">E-mail:jeszepesi@comcast.net</a></p>
  <p class=gen_header>PROFESSIONAL STRENGTHS<p>
- <p class=general>QUALITY SYSTEM IMPLEMENTATION, REGISTRATION, MAINTENANCE & IMPROVEMENT - 
+ <p class=general>QUALITY SYSTEM IMPLEMENTATION, REGISTRATION, MAINTENANCE & IMPROVEMENT -
 QUALITY SYSTEM ASSESSMENT (INTERNAL AND EXTERNAL) - QA / QC MANAGEMENT - TRAINER / FACILITATOR
 <br />
 An effective Quality Practitioner with an emphasis for Quality System / Quality Standards assessment, implementation, and Management; Possesses a pragmatic understanding of the role of the Quality Assurance activity with the ability to implement realistic systems that support the organization and significantly enhance customer satisfaction, internal compliance, and regulatory compliance. Strong work ethic and integrity, well organized team leader, strong written and verbal communicator, trainer / facilitator, self-motivated individual. </p>
@@ -74,7 +74,7 @@ In addition, I perform Internal EO Sterilization Process Audits at Boston Scient
 	<li>Experience in leading Quality Management System audits of various other industries: Plastic Injection Molding, Precision Metal Component Machining, Analytical / Chemical Labs, Calibration / Dimensional Inspection Labs, Microbiology Testing Labs, Biological Indicator Manufacture / Labs, and Radiation Dosimeter Manufacture / Labs</li>
 </ul>
 <p class=info_header>Quality Manager:  Graham Packaging Co., Casa Grande AZ&nbsp&nbsp&nbsp&nbsp&nbsp&nbspJuly 2005 to December 2005</p>
-<p class=general>Graham Packaging is an international manufacturer of various types of thermoplastic packaging containers. The Casa Grande plant uses the extrusion blow molding process for the manufacture of plastic bottles for the Food and Beverage Division of Graham. 
+<p class=general>Graham Packaging is an international manufacturer of various types of thermoplastic packaging containers. The Casa Grande plant uses the extrusion blow molding process for the manufacture of plastic bottles for the Food and Beverage Division of Graham.
 As Quality Manager, I was personally responsible for the quality of the Casa Grande products. This is achieved by product inspection and measurement / surveillance of the activities of personnel (40% of time), assuring that procedures are followed, and managing the activities of 1 Quality Technician and 4 Quality Inspectors. Other duties included new product / equipment qualifications, GMP compliance, and one-on-one customer relations.
 In addition to my plant duties as described above, I indirectly reported to Graham Corporate Quality Management who directed my activities regarding corporate / divisional quality issues and initiatives.</p>
 <ul class=circle><li>Improved the Casa Grande quality system to result in a successful major customer audit.</li>
@@ -145,7 +145,7 @@ Boston Scientific "Ethylene Oxide Sterilization Cycle Processes"</p>
  <p class=c_emphasis>Ephrata, PA 17522</p></p>
  <p class=emphasis_head>(717) 271-2967<br /><a href="mailto:kenneth.gimmi@gmail.com?subject=Resume">E-mail:kenneth.gimmi@gmail.com</a></p>
  <p class=emphasis_head><a href="http://www.kengimmi.com" target="blank">www.kengimmi.com</a></p>
- 
+
  <p class=general>Accomplished, visionary, and effective Quality Manager with extensive experience in Quality Systems, Quality Assurance, Lean Manufacturing, Team Development, Process Improvement, Public Speaking, Customer Service, Revenue Growth, and ISO Compliance within manufacturing and job shop environments. Recognized for exceptional ability to streamline procedures that improve quality standards and productivity. Proven communicator, fostering trusting and long-lasting relations with management, team members, vendors, investors, contractors, clients, and community at large, consistently achieving and exceeding quality, service, and profitability goals. Demonstrated leadership in Quality Meetings and ASQs with utmost quality standards.</p>
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">

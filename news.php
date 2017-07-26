@@ -43,9 +43,9 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <tr><td class=tdborder>
 <a name=ASQLI></a><p class=underline_head>ASQ Learning Institute</p>
    <p class=general>The ASQ Learning Institute&#8482; Is Now Live - Learn Skills That Will Help Make Your World
-   Better Quality: The Cause of Good Things in the World Quality techniques from ASQ enable doctors like Dr. Manu 
+   Better Quality: The Cause of Good Things in the World Quality techniques from ASQ enable doctors like Dr. Manu
    Vora, an ASQ Fellow - and the Blind Foundation for India, which he co-founded-to help cure and prevent blindness
-   for approximately 90,000 people in India.<br/><br/> &quot;The quality discipline has helped us manage the foundation 
+   for approximately 90,000 people in India.<br/><br/> &quot;The quality discipline has helped us manage the foundation
    from the beginning,&quot; said Vora. &quot;By implementing the PDSA model at BFI, we were able to hit the
    ground running.&quot; Using the plan, do, study, act cycle, a basic quality
   tool, Vora also played a major part in providing vaccinations and vitamin A
@@ -101,9 +101,9 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	<br /><br />Invest in your career and your future with an ASQ certification. Gain an advantage over your competition and increase your potential for a higher salary.
 	<br />Check out ASQ&#8217;s website for the certifications that are offered.</p>
   <a href="http://www.asq.org/certification/index.html" target=blank>http://www.asq.org/certification/index.html</a>
-  <p class=general>ASQ has joined the Lean Certification Alliance, enabling your society the opportunity to offer the 
-  certification exam. The Lean Certification program was launched in 2006 by the Society of Manufacturing Engineers, the 
-  Association for Manufacturing Excellence and The Shingo Prize for Operational Excellence in response to the market need 
+  <p class=general>ASQ has joined the Lean Certification Alliance, enabling your society the opportunity to offer the
+  certification exam. The Lean Certification program was launched in 2006 by the Society of Manufacturing Engineers, the
+  Association for Manufacturing Excellence and The Shingo Prize for Operational Excellence in response to the market need
   brought forward by their members and constituents.</p>
   <a href="#TOP" target="_self">Back to top</a>
   </td></tr>
@@ -218,18 +218,18 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <ul id=circle>
    <li>Sometimes Gantt charts are drawn with additional columns showing details such as the amount of time the task is expected
       	to take, resources or skill level needed or person responsible.</li>
-   <li>Beware of identifying reviews or approvals as events unless they really will take place at a specific time, such as a 
+   <li>Beware of identifying reviews or approvals as events unless they really will take place at a specific time, such as a
 	meeting. Reviews and approvals often can take days or weeks.</li>
-   <li>The process of constructing the Gantt chart forces group members to think clearly about what must be done to accomplish 
+   <li>The process of constructing the Gantt chart forces group members to think clearly about what must be done to accomplish
 	their goal. Keeping the chart updated as the project proceeds helps manage the project and head off schedule problems.</li>
    <li>It can be useful to indicate the critical points on the chart with bold or colored outlines of the bars.</li>
    <li>Computer software can simplify constructing and updating a Gantt chart.</li>
   </ul>
-  <p class=emphasis>Excerpted from Nancy R. Tague&#8217;s 
+  <p class=emphasis>Excerpted from Nancy R. Tague&#8217;s
 	<a href="http://www.asq.org/quality-press/display-item/index.html?item=H1224" target="_blank">The Quality Toolbox</a>,
 	 Second Edition, ASQ Quality Press, 2004, pages 271-274.</p>
-</td></tr>  
-<tr class=footerrow><td class=tdborder>  
+</td></tr>
+<tr class=footerrow><td class=tdborder>
   <a href="#TOP" target="_self">Back to top</a>&nbsp &nbsp &nbsp
   <a href="#QTIPS" target="_self">Return to Tips</a>
 </td></tr>
@@ -246,55 +246,55 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	the concepts by doing the Process FMEA first and then transfer the concepts to the Design FMEA.</li>
     <li>Failure is the inability of the item or activity being studied to perform its intended function. This can happen even
 	if the part or process does not 'break.'</li>
-    <li>FMEA evaluates <i>potential</i> failures. An FMEA does not mean that the failure has occurred in the past or will 
+    <li>FMEA evaluates <i>potential</i> failures. An FMEA does not mean that the failure has occurred in the past or will
 	occur in the future; it means that it <i>could</i> occur.</li>
     <li>The cause of the failure is often given as the potential failure mode. This creates a problem and results in confusion
 	when identifying the cause.&nbsp; Example: People see a tire without air and state that the failure mode is a nail in
 	the tire. The tire losing air pressure slowly is the potential failure mode and a nail in the tire is the cause.</li>
     <li>Better definition of the requirements of the design or process make the rest of the FMEA easier.</li>
   </ul>
-  <p class=general>For more hot topics and resources on quality in manufacturing, visit the 
+  <p class=general>For more hot topics and resources on quality in manufacturing, visit the
     <a href="http://click.asq-email.org/?ju=fe271671776601747c1d71&amp;ls=fde71277776d007b7113727c&amp;m=ff2f17797766&amp;l=fe6715757462077f7512&amp;s=fdf2157772660679711c7776&amp;jb=ffcf14&amp;t="
       target="_blank">ASQ Knowledge Center</a></p>
   <p class=emphasis>These tips first appeared in the ASQ Automotive Division's Automotive Excellence summer 2008 newsletter.</p>
-  </td></tr>  
-<tr class=footerrow><td class=tdborder>  
+  </td></tr>
+<tr class=footerrow><td class=tdborder>
   <a href="#TOP" target="_self">Back to top</a>&nbsp &nbsp &nbsp
   <a href="#QTIPS" target="_self">Return to Tips</a>
 </td></tr>
 <tr><td class=tdborder><a name=Garden></a><p class=section_header>Quality professionals must cultivate success
   in their &#8216;organizational gardens&#8217;</p>
   <p class=emphasis>--Excerpt from Quality Progress, November 2008&#8212;</p>
-  <p class=general>Quality professionals are constantly confronting practical questions that are always specific to the 
-	organizations they serve: How do we grow our quality efforts? How can I keep my organization&#8217;s approach to 
-	quality vibrant? How do I keep the leadership focused on quality? Should we be changing the focus of our quality 
+  <p class=general>Quality professionals are constantly confronting practical questions that are always specific to the
+	organizations they serve: How do we grow our quality efforts? How can I keep my organization&#8217;s approach to
+	quality vibrant? How do I keep the leadership focused on quality? Should we be changing the focus of our quality
 	program? How do I transplant a successful quality endeavor from one part of the organization into another?</p>
   <p class=general>Many quality professionals understand that the answers to these questions require the ability to envision
-	their organizations as living entities, existing within their understanding of systems theory. This requires quality 
-	professionals to function along the lines of organizational gardeners who cultivate their organizations so they can 
+	their organizations as living entities, existing within their understanding of systems theory. This requires quality
+	professionals to function along the lines of organizational gardeners who cultivate their organizations so they can
 	produce beauty on many levels.</p>
   <p class=underline_head>A basic approach</p>
   <p class=general>Regardless of whether an individual is an organizational gardener in a manufacturing, healthcare, service, government,
-	education or not-for-profit setting, the task of tending to an organization can be difficult because it&#8217;s easy to lose sight of 
+	education or not-for-profit setting, the task of tending to an organization can be difficult because it&#8217;s easy to lose sight of
 	four basic gardening principles:</p>
   <dl>
     <di><p class=gen_footer>Expect the seasons</p></di>
-      <dd>Start with the premise that everything changes and that no action you or your organization takes will ever be 
-	permanent. Your task is to study your organization as it exists right now, to think about how it can be improved, and 
-	then to perform the necessary pruning, spraying, transplanting and other actions.</dd>   
+      <dd>Start with the premise that everything changes and that no action you or your organization takes will ever be
+	permanent. Your task is to study your organization as it exists right now, to think about how it can be improved, and
+	then to perform the necessary pruning, spraying, transplanting and other actions.</dd>
     <di><p class=gen_footer>It is all an interconnected ecosystem</p></di>
       <dd>Each organization is a complex system of interconnected parts that exists within an even larger ecosystem of
-	  social, economic and political conditions. The term &quot;unintended consequences&quot; is just another way of 
+	  social, economic and political conditions. The term &quot;unintended consequences&quot; is just another way of
 	  saying we didn&#8217;t think things through from a systems perspective before we implemented change.</dd>
     <di><p class=gen_footer>Don&#8217;t spray everything</p></di>
-      <dd>Just because you own a set of garden tools does not mean you are a gardener. It is important to have a variety of 
-	  tools and even more important to know when to use them and when not to use them. Don&#8217;t spray the herbicide on 
-	  everything in sight just because you have it.<br><br> Most quality professionals have experienced a time when their 
-	  organization went overboard with a particular tool and attempted to apply it in an uncritical manner. This causes 
+      <dd>Just because you own a set of garden tools does not mean you are a gardener. It is important to have a variety of
+	  tools and even more important to know when to use them and when not to use them. Don&#8217;t spray the herbicide on
+	  everything in sight just because you have it.<br><br> Most quality professionals have experienced a time when their
+	  organization went overboard with a particular tool and attempted to apply it in an uncritical manner. This causes
 	  cynicism about quality simply responding to the fad of the month.</dd>
     <di><p class=gen_footer>Get dirty</p></di>
-      <dd>Organizational gardening requires a lot of hard work and the mastery of a complex body of knowledge (BoK). This 
-	  mastery only comes through a process known as praxis, in which we use our understanding of theory to inform our 
+      <dd>Organizational gardening requires a lot of hard work and the mastery of a complex body of knowledge (BoK). This
+	  mastery only comes through a process known as praxis, in which we use our understanding of theory to inform our
 	  practice and use our practical experiences to reflect on and refine our understanding of theory.</dd>
   </dl>
   <p class=underline_head>Alter your perception</p>
@@ -350,14 +350,14 @@ xmlns="http://www.w3.org/TR/REC-html40">
   for the betterment of society. The garden is calling, and it won&#8217;t
   wait. You probably have some organizational gardening of your own to do. Dig
   in.</p>
- </td></tr>  
-<tr class=footerrow><td class=tdborder>  
+ </td></tr>
+<tr class=footerrow><td class=tdborder>
   <a href="#TOP" target="_self">Back to top</a>&nbsp &nbsp &nbsp
   <a href="#QTIPS" target="_self">Return to Tips</a>
 </td></tr>
 <tr><td class=tdborder><a name=Scatter></a><p class=section_header>Scatter Diagram</p>
-  <p class=general>The scatter diagram graphs pairs of numerical data, with one variable on each axis, to look for a 
-	relationship between them. If the variables are correlated, the points will fall along a line or curve. The better 
+  <p class=general>The scatter diagram graphs pairs of numerical data, with one variable on each axis, to look for a
+	relationship between them. If the variables are correlated, the points will fall along a line or curve. The better
 	the correlation, the tighter the points will hug the line.</p>
   <p class=general>When to Use a Scatter Diagram:</p>
   <ul id=disc>
@@ -366,17 +366,17 @@ xmlns="http://www.w3.org/TR/REC-html40">
     <l>When trying to determine whether the two variables are related, such as&#8230;</li>
     <ul id=circle>
       <li>When trying to identify potential root causes of problems.</li>
-      <li>After brainstorming causes and effects using a fishbone diagram, to determine objectively whether a particular cause 
+      <li>After brainstorming causes and effects using a fishbone diagram, to determine objectively whether a particular cause
 	and effect are related.</li>
       <li>When determining whether two effects that appear to be related both occur with the same cause.</li>
       <li>When testing for autocorrelation before constructing a control chart.</li>
     </ul>
   </ul>
-  <p class=general>Read more about Scatter Diagram on the ASQ website in the Quality Tools section. It&#8217;s an excerpt 
+  <p class=general>Read more about Scatter Diagram on the ASQ website in the Quality Tools section. It&#8217;s an excerpt
 	from Nancy R. Tague&#8217;s <a href="http://www.asq.org/quality-press/display-item/index.html?item=H1224"
 	target="_blank"><i>The Quality Toolbox</i></a>, Second Edition, ASQ Quality Press, 2004, pages 471-474.</p>
-</td></tr>  
-<tr class=footerrow><td class=tdborder>  
+</td></tr>
+<tr class=footerrow><td class=tdborder>
   <a href="#TOP" target="_self">Back to top</a>&nbsp &nbsp &nbsp
   <a href="#QTIPS" target="_self">Return to Tips</a>
 </td></tr>
@@ -397,8 +397,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <p class=general>You can find the complete article at:
 	<a href="http://www.sixsigmaiq.com/article.cfm?externalid=1874">http://www.sixsigmaiq.com/article.cfm?externalid=1874
 	</a></p>
-</td></tr>  
-<tr class=footerrow><td class=tdborder>  
+</td></tr>
+<tr class=footerrow><td class=tdborder>
   <a href="#TOP" target="_self">Back to top</a>&nbsp &nbsp &nbsp
   <a href="#QTIPS" target="_self">Return to Tips</a>
 </td></tr>
@@ -474,11 +474,11 @@ xmlns="http://www.w3.org/TR/REC-html40">
   sense.</p>
   <p class=general>After all, aren&#8217;t your
   departments and processes under one roof?</p>
-  <p class=emphasis> RONALD L. SEDLOCK is the principal consultant and trainer at the quality Catalyst in Melrose, FL. He earned a 
-	bachelor&#8217;s degree in science from Cleveland University. Sedlock is a senior member of ASQ and past chair of ASQ 
+  <p class=emphasis> RONALD L. SEDLOCK is the principal consultant and trainer at the quality Catalyst in Melrose, FL. He earned a
+	bachelor&#8217;s degree in science from Cleveland University. Sedlock is a senior member of ASQ and past chair of ASQ
         sections 1313 Boulder, CO and of 1506 Jacksonville-Northeastern Florida.</p>
-</td></tr>  
-<tr class=footerrow><td class=tdborder>  
+</td></tr>
+<tr class=footerrow><td class=tdborder>
   <a href="#TOP" target="_self">Back to top</a>&nbsp &nbsp &nbsp
   <a href="#QTIPS" target="_self">Return to Tips</a>
 </td></tr>
@@ -542,7 +542,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
   interested in learning more about this topic, contact Randall Goodden at <a
   href="mailto:randygoodden@yahoo.com">randygoodden@yahoo.com</a>.</p>
 </td></tr>
-<tr class=footerrow><td class=tdborder>  
+<tr class=footerrow><td class=tdborder>
   <a href="#TOP" target="_self">Back to top</a>&nbsp &nbsp &nbsp
   <a href="#QTIPS" target="_self">Return to Tips</a>
 </td></tr>

@@ -141,8 +141,8 @@ Continuing Education Area Representative</p>
 training will examine the 10 specific clauses of the standard, Management's role, business operational processes tied to metrics (Key Performance
 Indicators, "KPI's"), the application of the "Risk Management Process" and review of examples. A key aspect of the course presents methods to
 document your business management processes to meet the requirements of the standard. Understanding through feedback workshops.
-</td>	
-	<td class="tdsessionbody">$450/Person			
+</td>
+	<td class="tdsessionbody">$450/Person
 			</td></tr>
 
 		<tr class="courserow">
@@ -159,9 +159,9 @@ document your business management processes to meet the requirements of the stan
 			<p class="course_rt">April 26 & 27</p>
 			<p class="course_rt">June 8 & 9</p>
 			</td>
-			
+
 			<td class="tdborderleft">
-						
+
 			<ul class="disc">
 				<li>The Auditor, Auditee, Audit & Audit Preparation</li>
 				<li>Auditing Documented Information</li>
@@ -173,7 +173,7 @@ document your business management processes to meet the requirements of the stan
 </td><td class="tdborderright">
 
 			<ul class="disc">
-			
+
 				<li>Auditing for Compliance</li>
 				<li>Writing the Process Audit Report</li>
 				<li>Root Cause Analysis & Corrective Action Plan</li>
@@ -183,10 +183,10 @@ document your business management processes to meet the requirements of the stan
 
 </td><td class="tdsessionbody">$750/Person
 			</td></tr>
-			
+
 		<tr class="courserow">
 			<td class="tdsessionhead"></td><td class="tdsessionhead" colspan="2">2 Day AS9100 D-2016 Standard Training</td><td class="tdsessionhead"></td></tr>
-		
+
 		<tr class="datarow"><td class="tdsessionbody">2 Sessions:
 			<p class="course_rt">March 23 & 24<br/></br>
 										May 23 & 24</p>
@@ -195,29 +195,29 @@ document your business management processes to meet the requirements of the stan
 			<p class="course_ct">Day 1: Understanding ISO 9001:2015; Base Requirements for AS9100D.<br/>
 				Day 2:  AS9100D-2016 Additional Requirements to ISO 9001:2015.</p>
 
-				This day concentrates on the AS9100 revision "D" (2016) aerospace supplements over and above the requirements of the 
-				ISO 9001-2015 Standard, the application of AS9101F Audit Criteria/Requirements, AS9104/1, changes in the OASIS database 
-				and implementation strategies for certification preparation.  Key changes of AS9100C to AS9100D-2016 will be reviewed.  
-				A specific focus is the review of the "Most Common Gaps" in AS9100C certified companies transitioning to AS9100D to use 
+				This day concentrates on the AS9100 revision "D" (2016) aerospace supplements over and above the requirements of the
+				ISO 9001-2015 Standard, the application of AS9101F Audit Criteria/Requirements, AS9104/1, changes in the OASIS database
+				and implementation strategies for certification preparation.  Key changes of AS9100C to AS9100D-2016 will be reviewed.
+				A specific focus is the review of the "Most Common Gaps" in AS9100C certified companies transitioning to AS9100D to use
 				as an upgrade development tool. Understanding through study workshops
 </td>
 			<td class="tdsessionbody">$750/Person
 			</td></tr>
-			
+
 			<tr class="courserow">
 			<td class="tdsessionhead"></td><td class="tdsessionhead" colspan="2">1 Day ISO 13485:2016 Training</td>
-			
+
 			<td class="tdsessionhead"></td></tr>
-		
+
 		<tr class="datarow"><td class="tdsessionbody">1 Sessions:
 			<p class="course_rt">May 18</p>
 			</td>
 			<td class="tdsessionbody" colspan="2">
-			
+
 				*	Introduction &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp *Structure, Scope & Definitions &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-*Based on ISO 9001:2008 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 
+*Based on ISO 9001:2008 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 *Risk Management <br/><br/>
-*Process Clauses &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 
+*Process Clauses &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 *Medical Device Clauses &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 *Procedures Required
 
@@ -249,7 +249,7 @@ document your business management processes to meet the requirements of the stan
 </table>
 
 
- 
+
 <p class="center">Last Update 1/25/17</p>
 
 <a href="#" class="back-to-top">Back to Top</a>
