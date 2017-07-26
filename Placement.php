@@ -49,8 +49,7 @@ members</a> </div>
 <td class="tdbox">
 <div class="dropdown"><button onclick="myFunction('jobMenu')" class="dropbtn" data-toggle="dropdown">View Job Postings</button>
 <div id="jobMenu" class="dropdown-content">
-<a href="#QE">Quality Engineer</a>
-<a href="#QA">Quality Auditor</a>
+<a href="#QT">Senior Quality Technician</a>
 </div>
 </div>
 </td>
@@ -96,124 +95,39 @@ posted on the site!</p>
 </td>
 </tr>
 <tr>
-<td class="tdbox"><a name="QA"></a>Posted:
-11/01/16</td>
+<td class="tdbox"><a name="QT"></a>Posted:
+02/09/17</td>
 </tr>
 <tr>
 <td class="tdborder">
-<p class="section_header">Quality Auditor</p>
+<p class="section_header">Senior Quality Technician</p>
 </td>
 </tr>
 <tr>
 <td class="tdborder">
-<p class="underline_head">Purpose:</p>
-<p class="general">Develops, maintains, and improves an internal quality audit program and corrective action system in support of
-the organization's strategic direction and quality objectives, including those related to attaining recognized QMS
-standards certification or awards.</p>
-<p class="underline_head">Areas of responsibility:</p>
+<p class="underline_head">Job Requirements:</p>
+<p class="general"><ul><li>Technical degree or equivalent experience.</li>
+<li>Strong technical and computer skills.</li>
+<li>ISO 9001 audit experience. </li>
+<li>PPAP experience</li>
+<li>Inspection experience</li>
+<li>Minimal travel</li></ul></p>
+<p class="underline_head">Job Duties:</p>
 <p class="general">
-<ul><li>Develops, maintains, and improves an internal audit process to ensure compliance to relevant QMS standards,
-and to support organizational performance against the strategic direction and quality objective targets.</li>
-<li>Reviews new QMS standards and performs gap analysis between such standards and the current QMS.</li>
-<li>Identifies required resources for meeting new QMS standards.</li>
-<li>Plans, initiates, and/or directly conducts internal audits.</li>
-<li>Ensures effective and timely corrective action from internal audit findings.</li>
-<li>Maintains and improves the internal corrective action reporting application.</li>
-<li>Prepares reports and presentations for top management on the organizational performance against quality
-objective targets related to internal audit and corrective action processes.</li>
-<li>Conducts supplier audits as needed to support risk assessments within engineering projects and/or subcontracted
-processes or products.</li>
-<li>Conducts supplier audits as needed to support quality engineering in supplier corrective action verification and/or
-improve supplier performance ratings.</li>
-<li>Builds an effective internal quality audit staff. Identifies required resources for an effective audit staff. Recruits
-and develops peers to conduct audits that require specific skills and knowledge.</li>
-<li>Interfaces with QMS registrar auditors and other staff as needed during all phases of external QMS audits from
-planning stages to closure of associated corrective actions.</li>
-<li>Conducts appropriate data analysis and research to identify potential causes of customer complaints, and
-ensures effective and timely corrective action for customer complaints. Completes customer corrective action
-requests.</li>
-<li>Maintains and improves the Standard Operating Procedure (SOP) development and approval process, and other
-forms of communications related to work processes, methods, and standards of performance. Approves content
-in specific SOP Chapters and other such communications.</li>
-<li>Leads and/or participates in continuous improvement teams as organized by management.</li>
-<li>Complies with and promotes rules and policies in matters of the Group Code of Ethics and the American Society
-of Quality (ASQ) Code of Ethics, with particular emphasis in the areas of customer relations, supplier relations,
-employee relations, safe working environment, and product quality and safety.</li> 
+<ul><li>Plans and conducts analysis and inspection of products and components to assure acceptable quality.</li>
+<li>Performs calibration duties and maintains the calibration system</li>
+<li>Ensures quality department tools and equipment are in acceptable condition.</li>
+<li>Active in meeting ISO 9001</li>
+<li>Participates in completing PPAP requirements</li>
+<li>Assists with product inspections</li>
+<li>Communicates significant issues or developments identified during quality assurance activities and provides recommended process improvements.</li>
+<li>Active member of the Supplier Quality Review, Warranty Review and New Product Development teams.</li>
+<li>Applies statistical methods, documents data, prepares reports, and updates procedures to communicate results of quality assurance activities.</li>
+<li>Recommends methods for improving quality and efficiency, including documenting processes.</li> 
 </ul>
 </p>
+<p class="general">To apply, send resume to: <a href="mailto:hrdepartment.af@gmail.com?Subject=Senior Quality Techincian">hrdepartment.af@gmail.com</a></p> 
 
-<p class="underline_head">Expected results:</p>
-<p ckass="general">
-<ul><li>Continual increases in product pass rate (yield) as a percentage of total product produced</li>
-<li>Continual decreases in customer returns as a percentage of Sales</li>
-<li>Continual decreases in customer complaints as a ratio of order line items shipped</li>
-<li>Continual compliance to QMS standard revisions</li></ul>
-</p>
-
-<p class="underline_head">Required skills and qualifications:</p>
-<p ckass="general">
-<ul><li>BA or BS degree required</li>
-<li>ASQ certified quality auditor or engineer required.</li>
-<li>Prior experience in managing an internal audit program and conducting internal audits, preferably in a
-manufacturing environment.</li>
-<li>Excellent communication and organizational skills</li>
-<li>Strong business acumen</li>
-<li>Strong knowledge of lean Six Sigma manufacturing tools and statistics</li>
-<li>Thorough knowledge of various quality system standards (e.g., ISO 9001)</li>
-</ul>
-</p>
-
-<p class="info_header">QUALIFICATIONS</p>
-<p class="general">
-<ul><li>Experience developing, implementing and maintaining SQF and ISO 9001</li> 
-<li>Experience writing, implementing and maintaining HACCP plans</li>
-<li>Strong computer skills including use of Microsoft Word, Excel and PowerPoint</li>
-<li>Knows the statistical process control</li>
-<li>Ability to analyze and make decisions</li>
-<li>Energetic, flexible and have ability to work alone and in a team environment</li>
-<li>Good Verbal and written communication skills</li>
-<li>Organized, dynamic, diplomatic, and proactive</li>
-<li>Bachelor degree. Minimum 5 years of experience quality control system implementation</li></ul>
-</p>
-
-<p class="general">To apply, follow the requisition link <a href="https://career2.successfactors.eu/sfcareer/jobreqcareer?jobId=31041&company=NEXANS&username=">Requisition ID 31041 - Posted 09/30/2016 - United States - New Holland - Technical - Fixed term - Full Time</a></p> 
-
-<p class="general"><a href="#Top" target="_self">Return to Top</a></p>
-</td>
-</tr></tr>
-<tr>
-<td class="tdbox"><a name="QE"></a>Posted:
-09/15/16</td>
-</tr>
-<tr>
-<td class="tdborder">
-<p class="section_header">Quality Engineer - Overhead Door</p>
-</td>
-</tr>
-<tr>
-<td class="tdborder">
-<p class="underline_head">GENERAL SUMMARY:</p>
-<p class="general">This position reports to the Quality Manager or Senior Quality Engineer and may provide local quality leadership at the plant level if the Quality Manager or Senior Quality Engineer are not on site.<br/><br/>
-The position provides support to the manufacturing plant with quality assurance support to ensure product is built in accordance with customer and company specifications while maintaining smooth production flow.</p>
-<p class="underline_head">Essential Duties:</p>
-<p class="general">
-	<ul><li>Ensures that product quality is attained through fulfillment of workmanship standards and quality program requirements.</li>
-                <li>Identifies and reports quality problems.</li>
-                <li>Recommends and implements corrective action to quality problems.</li>
-                <li>Reviews all related quality documentation and approves as appropriate to ensure product quality.</li>
-                <li>Generates and implements defect-reduction activities.</li></ul>
-</p>
-
-<p class="underline_head">Qualifications & Requirements:</p>
-<p class="general">
-	<ul><li>BS degree in Engineering or 10-15 years of quality engineering experience.</li>
-                <li>Ability to lead continuous improvement project</li>
-		<li>Ability to facilitate Kaizen events.</li>
-                <li>Possess a Six Sigma Black Belt Certification.</li>
-                <li>Excellent written and verbal communication skills</li></ul>
-</p>
-<p class="underline_head">To apply, submit resume and cover letter to:</p>
-<p ckass="general"><a href="mailto:Arthur_Campbell@OverheadDoor.com?Subject=Quality Engineer Position">Arthur_Campbell@OverheadDoor.coms</a></p>
 <p class="general"><a href="#Top" target="_self">Return to Top</a></p>
 </td>
 </tr>
