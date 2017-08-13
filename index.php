@@ -32,15 +32,7 @@ June 14, 2017</p>
 </tr>
 <tr>
 <td>
-<p class="info_header">New News - last update March 2017</p>
-</td>
-</tr>
-<tr>
-<td>
-<p class="info_header">2018 World Conference on Quality and Improvment</p>
-<p class="info_table"><i>Theme:</i><br/>The Innovation of You<br/><br/>
-<i>Focus Areas:</i><br/>Quality 4.0: The Future of Quality Starts Here, Risk and Change, Building and Sustaining a Culture of Quality, Quality Fundamentals in the Digital age, and Master's Series<br/><br/>
-<a href="http://send.asq.org/link.cfm?r=hzqpk3OPCkUK-TjJn79ZMA~~&pe=GyNPtlASsnAdEntL8PWXEyvNlH7UcgO8PkfZ2MMoSGs2hXeli6O21MxpIjlnPzUCXLFGXEvv1vRXVAgPYCJL1Q~~" target="_blank">Click for more informtation or to register</a></p></p>
+<p class="info_header">New News - last update August 2017</p>
 </td>
 </tr>
 
@@ -53,6 +45,15 @@ Location: Desmond Hotel, 1 Liberty Blvd, Malvern PA 19355 Telephone (610) 296-98
 <a href="http://www.asq-harrisburg.org/events_files/Flyer%20for%20Fall%202017%20Quality%20Conference%20with%20presenter%20names%20rev%207-28-17.doc"> View flyer</a></br>
 <a href="https://www.eventbrite.com/e/region-5-quality-conference-october-25th-desmond-hotel-malvern-pa-4-topic-tracks-lean-six-sigma-tickets-35738583064" target = "blank">Register</a></p>
 </td></tr>
+
+<tr>
+<td>
+<p class="info_header">2018 World Conference on Quality and Improvment</p>
+<p class="info_table"><i>Theme:</i><br/>The Innovation of You<br/><br/>
+<i>Focus Areas:</i><br/>Quality 4.0: The Future of Quality Starts Here, Risk and Change, Building and Sustaining a Culture of Quality, Quality Fundamentals in the Digital age, and Master's Series<br/><br/>
+<a href="http://send.asq.org/link.cfm?r=hzqpk3OPCkUK-TjJn79ZMA~~&pe=GyNPtlASsnAdEntL8PWXEyvNlH7UcgO8PkfZ2MMoSGs2hXeli6O21MxpIjlnPzUCXLFGXEvv1vRXVAgPYCJL1Q~~" target="_blank">Click for more informtation or to register</a></p></p>
+</td>
+</tr>
 
 <tr>
 <td>
