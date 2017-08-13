@@ -20,7 +20,7 @@
 <tbody>
 <tr>
 <td>
-<h2>Upcoming Chapter Programs:</h2> 
+<h2>Upcoming Chapter Programs:</h2>
 <br>
 <p class="info_header">Next Dinner Meeting<br>
 June 14, 2017</p>
@@ -37,21 +37,21 @@ June 14, 2017</p>
 </tr>
 <tr>
 <td>
-<p class="info_header">2017 World Conference on Quality and Improvment</p>
-<p class="info_table"><i>Early Bird Pricing</i><br/>Save $100 - Register on or before March 10, 2017<br/><br/>
-<i>Focus Areas:</i><br/>Risk and Change, Quality Fundamentals, Customer Focus, Quality as a Competitive Advantage, & Operational Excellence<br/><br/>
+<p class="info_header">2018 World Conference on Quality and Improvment</p>
+<p class="info_table"><i>Theme:</i><br/>The Innovation of You<br/><br/>
+<i>Focus Areas:</i><br/>Quality 4.0: The Future of Quality Starts Here, Risk and Change, Building and Sustaining a Culture of Quality, Quality Fundamentals in the Digital age, and Master's Series<br/><br/>
 <a href="http://send.asq.org/link.cfm?r=hzqpk3OPCkUK-TjJn79ZMA~~&pe=GyNPtlASsnAdEntL8PWXEyvNlH7UcgO8PkfZ2MMoSGs2hXeli6O21MxpIjlnPzUCXLFGXEvv1vRXVAgPYCJL1Q~~" target="_blank">Click for more informtation or to register</a></p></p>
 </td>
 </tr>
 
-<tr><td> <p class = "info_header">Online Certification Prep Course for CMQ/OE</p>
-<p class = "info_table">Presented by ASQ Section 1302 </br>
-Instructor: Mr. Rick Pennington, CMQ/OE, CQE</br></br>
+<tr><td> <p class = "info_header">Quality Conference</p>
+<p class = "info_table">Presented by ASQ Section 505 Philadelphia</br>
+17 Speakers Presenting Outstanding Quality Topics on:  Device/Drug, Lean 6 Sigma, ISO/Audit, & Healthcare (.8RUs)</br></br>
 
-Class dates: March 20 – May 7, 2017</br>
-(Class Enrollment Deadline: March 12, 2017)</br>
-<a href="http://www.asq-harrisburg.org/home_files/Quick Flyer_CMQ-OE.pdf" target="_blank"> View brochure</a></br>
-<a href="http://www.asq-1302.org/education-and-training/" target = "blank">Register</a></p>
+Conference date: October 25, 2017 7:30 AM to 4:00 PM</br>
+Location: Desmond Hotel, 1 Liberty Blvd, Malvern PA 19355 Telephone (610) 296-9800</br>
+<a href="http://www.asq-harrisburg.org/events_files/Flyer%20for%20Fall%202017%20Quality%20Conference%20with%20presenter%20names%20rev%207-28-17.doc"> View flyer</a></br>
+<a href="https://www.eventbrite.com/e/region-5-quality-conference-october-25th-desmond-hotel-malvern-pa-4-topic-tracks-lean-six-sigma-tickets-35738583064" target = "blank">Register</a></p>
 </td></tr>
 
 <tr>
@@ -60,7 +60,7 @@ Class dates: March 20 – May 7, 2017</br>
 2017:</p>
 <p class="info_table"><i>Chair-Elect</i></p>
 </td>
-</tr> 	
+</tr>
 <tr>
 <td>
 <p class="info_header">On the Job Tip</p>
