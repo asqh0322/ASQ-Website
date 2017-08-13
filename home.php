@@ -9,6 +9,7 @@
 
 <br/><br/>
 <hr class="gradient_blue" />
+<p><strong>THIS PAGE IS NOT USED</strong></p>
 
 <table border="25" height="578" width="100%">
 <tbody>
@@ -18,7 +19,7 @@
 <tbody>
 <tr>
 <td>
-<h2>Upcoming Chapter Programs:</h2> 
+<h2>Upcoming Chapter Programs:</h2>
 <br>
 <p class="info_header">Next Dinner Meeting<br>
 June 8, 2016</p>
@@ -47,7 +48,7 @@ For more information or to register go to <a href="http://asq.org/wcqi/?utm_sour
 9001:2015 Transition and Implementation being offered in December<br>
 <a href="http://www.asq-harrisburg.org/education_files/ISO%209001-2015%202-day%20course%20flyer.pdf" target="_blank">Click for brochure</a></p>
 </td>
-</tr> 	
+</tr>
 <tr>
 <td>
 <p class="info_header">New officer for
