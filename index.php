@@ -44,7 +44,7 @@ June 14, 2017</p>
 </td>
 </tr>
 
-<tr><td> <p class = "info_header">Quality Conference</p>
+<tr><td> <p class = "info_header">FAll 2017 Quality Conference</p>
 <p class = "info_table">Presented by ASQ Section 505 Philadelphia</br>
 17 Speakers Presenting Outstanding Quality Topics on:  Device/Drug, Lean 6 Sigma, ISO/Audit, & Healthcare (.8RUs)</br></br>
 
