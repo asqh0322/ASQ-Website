@@ -20,7 +20,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 
 <h2>ASQ Harrisburg Section 503</h2>
 
-<table class=button><tr><td><h3>When: </h3></td><td colspan=3><h3>Wednesday, June 14, 2017</h3></td></tr></table>
+<table class=button><tr><td><h3>When: </h3></td><td colspan=3><h3>Wednesday, September 13, 2017</h3></td></tr></table>
 
 <table class=button><tr><td><h3>Please register online by:</h3></td><td><h3 id="regEnd">09/08/2017</h3></td><td><h3>at:</h3></td><td><h3 id="timeEnd">02:30 PM</h3></td></tr>
 <tr><td colspan=5><p class=info_header>Registration can be completed, below</p></td></tr></table>
