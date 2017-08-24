@@ -94,7 +94,7 @@ Magazine</a></p>
 <tr height="80">
 <td>
 <div class="navcenter">
-<p class="tablebutton"><a href="http://www.asq-harrisburg.org/home_files/Harrisburg ASQ Newsletter June 2017.pdf" target="_blank">Link to Current Newsletter</a></p>
+<p class="tablebutton"><a href="http://www.asq-harrisburg.org/home_files/Harrisburg ASQ Newsletter September 2017.pdf" target="_blank">Link to Current Newsletter</a></p>
 </div>
 </td>
 <td>
