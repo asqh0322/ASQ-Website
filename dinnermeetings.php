@@ -64,18 +64,18 @@ xmlns="http://www.w3.org/TR/REC-html40">
 
 <h5>What:</br></br>Planning for Failure: The Power of Defensive Pessimism:</h5>
 
-<p class=general>Cheer up. Be Happy. Find the silver lining. Smile. If you didn’t know any better, you might say we’re a country
+<p class=general>Cheer up. Be Happy. Find the silver lining. Smile. If you didn't know any better, you might say we're a country
 that preaches optimism. But some 30 to 35 percent of Americans employ a calculated form of negative thinking,
 called defensive pessimism, that can lead to very positive results.
 
-<br/><br/>We’re not talking about a general disposition to see every glass as half-empty: “Defensive pessimism is a
-strategy used in specific situations to manage anxiety, fear, and worry”. Defensive pessimists prepare for a
+<br/><br/>We're not talking about a general disposition to see every glass as half-empty: "Defensive pessimism is a
+strategy used in specific situations to manage anxiety, fear, and worry". Defensive pessimists prepare for a
 situation by setting low expectations for themselves or a process, then follow up with a very detailed assessment
 of everything that may go wrong.
 
 <Br/><br/>Once they imagine the full range of things that can go wrong or bad outcomes, they start figuring out how to
 handle them and this gives them a sense of control. Studies have shown that defensive pessimists tend to be
-very successful people, and their low opinion of outcomes isn’t realistic; they use it to motivate themselves to
+very successful people, and their low opinion of outcomes isn't realistic; they use it to motivate themselves to
 perform better. If you pressure them into being optimistic, or try to manipulate their mood, their performance
 deteriorates.
 
@@ -86,14 +86,14 @@ environment.
 </p>
 <h5>Who:</br></br>Mr. John Sharp, Global Quality Leader, TE Connectivity</h5>
 
-<p class = general>TE Connectivity is the world’s largest supplier of passive electronic components.
-<br/><br/>Mr. Sharp’s current responsibilities include directing the global quality initiatives and policies for the
-Channel/Distribution BU of TE. This involves understanding the distribution and end-customers’ expectations
+<p class = general>TE Connectivity is the world's largest supplier of passive electronic components.
+<br/><br/>Mr. Sharp's current responsibilities include directing the global quality initiatives and policies for the
+Channel/Distribution BU of TE. This involves understanding the distribution and end-customers' expectations
 and providing an extraordinary customer experience while also achieving TE business objectives. In the recent
 past, John has led/administered the North American ISO/TL Quality Management System; as well as the Six
 Sigma and Lean process, quality metrics reporting and analysis. Mr. Sharp is responsible for establishing
 strategic plans, policies, and procedures at all levels to ensure the QA program will met or exceed internal and
-external customers’ needs and expectations.
+external customers' needs and expectations.
 
 <br/><br/>Mr. Sharp teaches a variety of courses and seminars in TQM, Statistical Process Control, Quality Engineering
 and Auditing, Management, Marketing, Organizational Behavior, and Operations Management for the Penn
