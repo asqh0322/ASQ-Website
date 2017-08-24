@@ -22,12 +22,12 @@ xmlns="http://www.w3.org/TR/REC-html40">
 
 <table class=button><tr><td><h3>When: </h3></td><td colspan=3><h3>Wednesday, June 14, 2017</h3></td></tr></table>
 
-<table class=button><tr><td><h3>Please register online by:</h3></td><td><h3 id="regEnd">06/09/2017</h3></td><td><h3>at:</h3></td><td><h3 id="timeEnd">02:30 PM</h3></td></tr>
+<table class=button><tr><td><h3>Please register online by:</h3></td><td><h3 id="regEnd">09/08/2017</h3></td><td><h3>at:</h3></td><td><h3 id="timeEnd">02:30 PM</h3></td></tr>
 <tr><td colspan=5><p class=info_header>Registration can be completed, below</p></td></tr></table>
 
 <hr/>
 
-<table class=button> 
+<table class=button>
  <tr><td class=td><p class=general>Registration:</p></td>
  <td class=td><p class=general>5:30 - 6:30 p.m.</p></td></tr>
  <tr><td class=td><p class=general>Dinner:</p></td>
@@ -38,40 +38,70 @@ xmlns="http://www.w3.org/TR/REC-html40">
 
 <hr class=dash />
 
-<h3> Four Points by Sheraton York, 1650 Toronita Street, York, PA 17402</h3>
+<h3> Sheraton Harrisburg Hershey Hotel 4650 Lindle Road, Harrisburg, PA 17111</h3>
 
-<h3><a href="http://www.asq-harrisburg.org/yorka.pdf" target="_blank">York Four Points Sheraton Directions</a></h3>
+<h3><a href="http://www.sheratonharrisburghershey.com/directions" target="_blank">Sheraton Harrisburg Hotel Directions</a></h3>
 
 <hr class=dash \>
 
 <h3>Menu:</h3>
-<p class=emphasis><strong>Classic 4Pts. Buffet:</strong> Appetizers - Chef's choice; Fresh mixed Baby Greens w/Vinaigrette, Caesar Salad, and two Chef Specialty Salads;
-<br/>Grilled NY Sirloin Steak and Grilled Salmon w/dill sauce;
-<br/>Whipped potatoes and Seasonal Veggies;
-<br/>Rolls and butter, Coffee and Tea service;
-<br/>Assorted Desserts table
-<br/><br/>Each registered attendee will receive two free drink vouchers good for cocktails, wine, beer or soda
+<p class=emphasis><strong>A Taste of PA Buffet:</strong> Garden Fresh salad with Field Greens and Seasonal Vegetables;
+<br/>Carved Roast Beef, Roasted Salmon with Pineapple Salsa and, Fire Grilled Chili Rubbed Chicken;
+<br/>Rice Pilaf and Fresh vegetables;
+<br/>assorted deserts including Peach Cobbler, cakes and pies
 </p>
 
 <hr class=dash />
 
 <table><th><h3>Cost:</h3></th>
 
-<tr class=general><td class=bold>Pre-Registered:</td><td class=bottom>Section Members - $25.00 each | Guests/Non-Members - $30.00 | Students - $15.00</td></tr> 
+<tr class=general><td class=bold>Pre-Registered:</td><td class=bottom>Section Members - $25.00 each | Guests/Non-Members - $30.00 | Students - $15.00</td></tr>
 <tr class=general><td class=bold>At the Door:</td><td class = bottom>Section Members - $30.00 each | Guests/Non-Members - $35.00 | Students - $15.00</td></tr>
 <tr class=general><td class=bold>Note:</td><td class = bottom>If you are receiving an award and have already sent your RSVP, there is no need to register online.</td></tr>
 </table>
 
 <hr class=dash />
 
-<h5>What:</br></br>Quality Profession, Skills and Technology: Yesterday, Today, Tomorrow:</h5>
+<h5>What:</br></br>Planning for Failure: The Power of Defensive Pessimism:</h5>
 
+<p class=general>Cheer up. Be Happy. Find the silver lining. Smile. If you didn’t know any better, you might say we’re a country
+that preaches optimism. But some 30 to 35 percent of Americans employ a calculated form of negative thinking,
+called defensive pessimism, that can lead to very positive results.
 
-<p class=general>Quality, as a profession, is a constant from the European Guilds, 1000 years ago, to contemporary cyber-warfare. However, the control of the definition and measurement of Quality is evolving from the hands of the practitioner to the keystroke of the internet expert.  This session reviews the vital relationship between the Quality Profession, relevant skills and technology in the past and present. Using practical examples, the session suggests how those in the profession of quality can incrementally prepare for and control future standards in business and industry, healthcare, and education.</p>
+<br/><br/>We’re not talking about a general disposition to see every glass as half-empty: “Defensive pessimism is a
+strategy used in specific situations to manage anxiety, fear, and worry”. Defensive pessimists prepare for a
+situation by setting low expectations for themselves or a process, then follow up with a very detailed assessment
+of everything that may go wrong.
 
-<h5>Who:</br></br>Dr. Bob Gee, MBB</h5>
+<Br/><br/>Once they imagine the full range of things that can go wrong or bad outcomes, they start figuring out how to
+handle them and this gives them a sense of control. Studies have shown that defensive pessimists tend to be
+very successful people, and their low opinion of outcomes isn’t realistic; they use it to motivate themselves to
+perform better. If you pressure them into being optimistic, or try to manipulate their mood, their performance
+deteriorates.
 
-<p class = general>Dr. Bob Gee, Ph.D. achieved international, national and state recognitions for higher education achievements in quality management.  Dr. Gee was a pilot Baldrige Examiner in Education and Healthcare, guest speaker at Yale University, and recipient of the federal "Excellence in Government" award for design of educational programs at the United States Coast Guard.  Dr. Gee's keynote presentations include an ISO series in Lebanon, on medical education and quality practice in Davos, Switzerland, as Judge of International Team awards for Phillips Lighting, and on global quality standards at the China National Six Sigma Conference.  His history of public service and support of ASQ includes national Board Member of ASQ, guest speaker at ASQ regional conferences, Board Member and guest Examiner of State Quality Awards, and Governor's Committee for Education. He created and implemented private-public sector quality programs for sponsors such as the Institute of Canadian Bankers and Canadian International Development Agency in the Pacific Rim.   Dr. Gee has founded Higher Education Institution(s) offering Bachelors Completion through Doctor of Business Administration Degrees in Quality, Healthcare and Education and Lean Thinking and Post-Doctoral Fellows Program Certifications.  He has won "Teacher of the Year" awards for process improvement projects at diverse sponsors such as Center for Medicaid Services and United Technologies.</p>
+<br/><br/>Defensive pessimism is a tool to prepare for everything, even failure. If you encounter failure, you are prepared,
+ready and hopefully it is not catastrophic. We will discuss tools to use in your personal and professional
+environment.
+
+</p>
+<h5>Who:</br></br>Mr. John Sharp, Global Quality Leader, TE Connectivity</h5>
+
+<p class = general>TE Connectivity is the world’s largest supplier of passive electronic components.
+<br/><br/>Mr. Sharp’s current responsibilities include directing the global quality initiatives and policies for the
+Channel/Distribution BU of TE. This involves understanding the distribution and end-customers’ expectations
+and providing an extraordinary customer experience while also achieving TE business objectives. In the recent
+past, John has led/administered the North American ISO/TL Quality Management System; as well as the Six
+Sigma and Lean process, quality metrics reporting and analysis. Mr. Sharp is responsible for establishing
+strategic plans, policies, and procedures at all levels to ensure the QA program will met or exceed internal and
+external customers’ needs and expectations.
+
+<br/><br/>Mr. Sharp teaches a variety of courses and seminars in TQM, Statistical Process Control, Quality Engineering
+and Auditing, Management, Marketing, Organizational Behavior, and Operations Management for the Penn
+State University- Middletown campus, Harrisburg Area Community College, Lebanon Valley College, and the
+Harrisburg section of the American Society for Quality. He is a past Chairman of the local ASQ section and is
+currently the education chairman.
+
+</p>
 <h2>IMPORTANT:</h2>
 
 <h3 class=emphasis>Note: New Policy</h3>
@@ -84,7 +114,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <table align="center"><tr><td>
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<fieldset> 
+<fieldset>
 <legend>Use the Pay Now button to complete registration and pay instantly</legend>
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="5A7HMMV3WC46Y">
@@ -109,7 +139,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 
 <h2>Directions</h2>
 
-<a href="http://www.sheratonharrisburghershey.com/directions" target="_blank">Sheraton Harrisburg Hotel Directions</a> 
+<a href="http://www.sheratonharrisburghershey.com/directions" target="_blank">Sheraton Harrisburg Hotel Directions</a>
 <br/>
   	 <!--<a href="http://www.redlion.com/harrisburg/maps" target="_blank">Red Lion Hotels Harrisburg Directions</a>-->
     <!--<a href="http://www.asq-harrisburg.org/Lancaster.pdf" target="_blank">Lancaster Hilton Garden Inn Directions</a>-->

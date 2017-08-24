@@ -23,8 +23,8 @@
 <h2>Upcoming Chapter Programs:</h2>
 <br>
 <p class="info_header">Next Dinner Meeting<br>
-June 14, 2017</p>
-<p class="info_table">5th Annual Section 0503 Recognition and Awards Social Night</p>
+September 13, 2017</p>
+<p class="info_table">Planning for Failure: The Power of Defensive Pessimism</p>
 <div class="navigator">
 <p class="tablebutton"><a href="dinnermeetings.php">Click for Details</a></p>
 </div>
