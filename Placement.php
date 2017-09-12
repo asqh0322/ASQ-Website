@@ -106,9 +106,9 @@ posted on the site!</p>
 <tr>
 <td class="tdborder">
 <p class="underline_head">Job Overview:</p>
-<p class="general">This position will be responsible for planning and directing activities of a complex nature to assure that dimensional, material, and visual characteristics of a product’s design, as documented on drawing, specifications, and quality standards are consistently produced, and that product of acceptable quality are sent to customer.</p></br>
+<p class="general">This position will be responsible for planning and directing activities of a complex nature to assure that dimensional, material, and visual characteristics of a product's design, as documented on drawing, specifications, and quality standards are consistently produced, and that product of acceptable quality are sent to the customer.</p></br>
 <p class="underline_head">Job Requirements:</p>
-<p class="general"><ul><li>Bachelor’s degree or equivalent Quality Engineering experience</li>
+<p class="general"><ul><li>Bachelor's degree or equivalent Quality Engineering experience</li>
 <li>Minimum 3 years quality engineering experience</li>
 <li>Understanding and creation of FEMA, PPAP, 8D, and other quality documentation
 </li></ul></p>
@@ -131,8 +131,8 @@ posted on the site!</p>
   York, PA 17404</br>
 
 <a href="mailto:cshaffer@toolingdynamics.com?Subject=Quality Engineer Position">cshaffer@toolingdynamics.com</a></p>
-<p class="general">Learn more about Tooling Dynamics, LLC: 
-<a href="http://www.toolingdynamics.com/">www.toolingdynamics.com/</a></p>
+<p class="general">Learn more about Tooling Dynamics, LLC:
+<a href="http://www.toolingdynamics.com/" target="blank">www.toolingdynamics.com/</a></p>
 <p class="general"><a href="#Top" target="_self">Return to Top</a></p>
 </td>
 </tr>
