@@ -49,7 +49,7 @@ members</a> </div>
 <td class="tdbox">
 <div class="dropdown"><button onclick="myFunction('jobMenu')" class="dropbtn" data-toggle="dropdown">View Job Postings</button>
 <div id="jobMenu" class="dropdown-content">
-<a href="#QT">No Current Postings</a>
+<a href="#QT">Quality Engineer</a>
 </div>
 </div>
 </td>
@@ -96,24 +96,43 @@ posted on the site!</p>
 </tr>
 <tr>
 <td class="tdbox"><a name="QT"></a>Posted:
-TBD</td>
+9/11/2017</td>
 </tr>
 <tr>
 <td class="tdborder">
-<p class="section_header">No Current Posting</p>
+<p class="section_header">Quality Engineer</p>
 </td>
 </tr>
 <tr>
 <td class="tdborder">
+<p class="underline_head">Job Overview:</p>
+<p class="general">This position will be responsible for planning and directing activities of a complex nature to assure that dimensional, material, and visual characteristics of a product’s design, as documented on drawing, specifications, and quality standards are consistently produced, and that product of acceptable quality are sent to customer.</p></br>
 <p class="underline_head">Job Requirements:</p>
-<p class="general"><ul><li>No current requirements</li></ul></p>
+<p class="general"><ul><li>Bachelor’s degree or equivalent Quality Engineering experience</li>
+<li>Minimum 3 years quality engineering experience</li>
+<li>Understanding and creation of FEMA, PPAP, 8D, and other quality documentation
+</li></ul></p>
 <p class="underline_head">Job Duties:</p>
 <p class="general">
-<ul><li>NO current job duties</li>
+<ul><li>Review of customer drawings and specifications to determine compatibility with internal manufacturing.  Assures compliance to customer quality specifications, certifications, testing, and other contractual requirements</li>
+<li>Coordinates the resolution of any special, quality, test or certification requirements on cooperation with product engineering assuring overall agreement between Tooling Dynamics and customer drawings and specifications</li>
+<li>Specifies and/or provides the use of gages, measuring devices and testing equipment used to determine acceptability of productive material</li>
+<li>Provides support when required for the disposition of non-conforming material and assistance in root cause- corrective action investigation</li>
+<li>Performs supplier audits and approvals</li>
+<li>Defines control points within the manufacturing processes and implements them through the use of quality inspection plan</li>
+<li>Development of PPAP documentation
+</li>
 </ul>
 </p>
-<p class="general">To apply, send resume to: <a href="mailto:noaddress@nogmail.com?Subject=No Posting">noaddress@noemail.com</a></p>
+<p class="general">To apply, send resume to: </br>
+  Tooling Dynamics, LLC</br>
+  Cynthia Shaffer</br>
+  905 Vogelsong Road</br>
+  York, PA 17404</br>
 
+<a href="mailto:cshaffer@toolingdynamics.com?Subject=Quality Engineer Position">cshaffer@toolingdynamics.com</a></p>
+<p class="general">Learn more about Tooling Dynamics, LLC: 
+<a href="http://www.toolingdynamics.com/">www.toolingdynamics.com/</a></p>
 <p class="general"><a href="#Top" target="_self">Return to Top</a></p>
 </td>
 </tr>
