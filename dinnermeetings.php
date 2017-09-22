@@ -20,9 +20,9 @@ xmlns="http://www.w3.org/TR/REC-html40">
 
 <h2>ASQ Harrisburg Section 503</h2>
 
-<table class=button><tr><td><h3>When: </h3></td><td colspan=3><h3>Wednesday, September 13, 2017</h3></td></tr></table>
+<table class=button><tr><td><h3>When: </h3></td><td colspan=3><h3>Wednesday, October 11, 2017</h3></td></tr></table>
 
-<table class=button><tr><td><h3>Please register online by:</h3></td><td><h3 id="regEnd">09/08/2017</h3></td><td><h3>at:</h3></td><td><h3 id="timeEnd">02:30 PM</h3></td></tr>
+<table class=button><tr><td><h3>Please register online by:</h3></td><td><h3 id="regEnd">10/06/2017</h3></td><td><h3>at:</h3></td><td><h3 id="timeEnd">02:30 PM</h3></td></tr>
 <tr><td colspan=5><p class=info_header>Registration can be completed, below</p></td></tr></table>
 
 <hr/>
@@ -64,7 +64,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 
 <hr class=dash />
 
-<h5>What:</br></br>Plant Tour – Carlisle Construction Materials LLC (CCM):</h5>
+<h5>What:</br></br>Plant Tour - Carlisle Construction Materials LLC (CCM):</h5>
 
 <p class=general>Carlisle Construction Materials LLC (CCM) is a diversified manufacturer and supplier of premium building products and related technologies for the commercial and residential construction markets. Carlisle has been a recognized leader in the roofing industry for nearly half a century, offering high-performance single-ply roofing solutions that include EPDM, TPO, PVC and roof garden systems. Carlisle also offers a full line of polyiso and expanded polystyrene insulation as well as a host of steep slope underlayments, duct sealants, adhesives and hardware. Every Carlisle Company offers sustainable, eco-friendly products that help reduce a building's carbon footprint, and often minimize its energy consumption and costs.
 
@@ -78,7 +78,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 </p>
 <h5>Who:</br></br>Ped Young, Plant Manager, Carlisle Construction Materials LLC</h5>
 
-<p class = general>Ped is originally from Camp Hill, PA and has a BS Degree in Chemical Engineering with a minor in Chemistry from Widener University. He has held numerous roles in manufacturing over the past 23 years with AMP / Tyco Electronics / TE Connectivity. The roles include: Process Engineer – Electroplating and Environmental, Project Engineer, Manufacturing Engineering Manager, Operations Manager, Multi-site Plant Manager.
+<p class = general>Ped is originally from Camp Hill, PA and has a BS Degree in Chemical Engineering with a minor in Chemistry from Widener University. He has held numerous roles in manufacturing over the past 23 years with AMP / Tyco Electronics / TE Connectivity. The roles include: Process Engineer - Electroplating and Environmental, Project Engineer, Manufacturing Engineering Manager, Operations Manager, Multi-site Plant Manager.
 
 </br></br>Ped joined Carlisle Construction Materials in August, 2013 initially as the Operations Manager, Adhesive Plant. In early 2014, his role expanded to include Operations Manager duties for Plant 5 to build the TPO Manufacturing Team and Start-up CCM's 5th TPO Line. The line we will be touring. In 2016, Ped became Plant Manager for Plant 5, Plant 6 and the Carlisle Campus Shipping and Logistics organization.
 
