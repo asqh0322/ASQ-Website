@@ -38,68 +38,52 @@ xmlns="http://www.w3.org/TR/REC-html40">
 
 <hr class=dash />
 
-<h3> Sheraton Harrisburg Hershey Hotel 4650 Lindle Road, Harrisburg, PA 17111</h3>
+<h3> 	Carlisle Construction Materials Technical Center 1555 Ritner Highway, Carlisle, PA 17013</h3>
 
-<h3><a href="http://www.sheratonharrisburghershey.com/directions" target="_blank">Sheraton Harrisburg Hotel Directions</a></h3>
+<h3>If you are traveling to the location from downtown Carlisle, you will need to pass several Carlisle buildings until you see a new building under construction on the right-hand side. Slow down and prepare to turn right into the driveway of the Technical Center which is partially hidden by a pile of dirt.
+</br>If you are traveling from the west via route 465 the Technical Center is the first Carlisle building on the left-hand side after passing several warehouses.
+</br>Parking in in the rear of the building and follow the signs to enter the building and proceed to the large conference room.
+</h3>
 
 <hr class=dash \>
 
 <h3>Menu:</h3>
-<p class=emphasis><strong>A Taste of PA Buffet:</strong> Garden Fresh salad with Field Greens and Seasonal Vegetables;
-<br/>Carved Roast Beef, Roasted Salmon with Pineapple Salsa and, Fire Grilled Chili Rubbed Chicken;
-<br/>Rice Pilaf and Fresh vegetables;
-<br/>assorted deserts including Peach Cobbler, cakes and pies
+<p class=emphasis><strong>Buffet:</strong> Mini-salad bar; Pot roast, Turkey, Vegetarian entree; Pumpkin pie or apple slices
 </p>
 
 <hr class=dash />
 
 <table><th><h3>Cost:</h3></th>
 
-<tr class=general><td class=bold>Pre-Registered:</td><td class=bottom>Section Members - $25.00 each | Guests/Non-Members - $30.00 | Students - $15.00</td></tr>
-<tr class=general><td class=bold>At the Door:</td><td class = bottom>Section Members - $30.00 each | Guests/Non-Members - $35.00 | Students - $15.00</td></tr>
-<tr class=general><td class=bold>Note:</td><td class = bottom>If you are receiving an award and have already sent your RSVP, there is no need to register online.</td></tr>
+<tr class=general><td class=bold>Pre-Registered:</td><td class=bottom>Section Members - $20.00 each | Students - $10.00</td></tr>
+<tr class=general><td class=bold>At the Door:</td><td class = bottom>There is a maximum of 30 Section Members for this event.  At-the-door registrations will not be accepted</td></tr>
+<tr class=general><td class=bold>Note:</td><td class = bottom>Funds collected for this event will be donated to Hurricane relief organizations.  Those who cannot attend may donate on-line or by sending a check to the Section Treasurer.
+
+</td></tr>
 </table>
 
 <hr class=dash />
 
-<h5>What:</br></br>Planning for Failure: The Power of Defensive Pessimism:</h5>
+<h5>What:</br></br>Plant Tour – Carlisle Construction Materials LLC (CCM):</h5>
 
-<p class=general>Cheer up. Be Happy. Find the silver lining. Smile. If you didn't know any better, you might say we're a country
-that preaches optimism. But some 30 to 35 percent of Americans employ a calculated form of negative thinking,
-called defensive pessimism, that can lead to very positive results.
+<p class=general>Carlisle Construction Materials LLC (CCM) is a diversified manufacturer and supplier of premium building products and related technologies for the commercial and residential construction markets. Carlisle has been a recognized leader in the roofing industry for nearly half a century, offering high-performance single-ply roofing solutions that include EPDM, TPO, PVC and roof garden systems. Carlisle also offers a full line of polyiso and expanded polystyrene insulation as well as a host of steep slope underlayments, duct sealants, adhesives and hardware. Every Carlisle Company offers sustainable, eco-friendly products that help reduce a building's carbon footprint, and often minimize its energy consumption and costs.
 
-<br/><br/>We're not talking about a general disposition to see every glass as half-empty: "Defensive pessimism is a
-strategy used in specific situations to manage anxiety, fear, and worry". Defensive pessimists prepare for a
-situation by setting low expectations for themselves or a process, then follow up with a very detailed assessment
-of everything that may go wrong.
+</br></br>CCM is a $2 billion division of Carlisle Companies (NYSE:CSL). It employs over 2,400 people and operates 26 plants in North America and 5 in Europe. CCM companies include: Carlisle SynTec Systems, Carlisle WIP Products, Carlisle Coatings & Waterproofing, Carlisle HVAC Products, Hunter Panels, Insulfoam, Carlisle International, Premier SIPs, Versico Roofing Systems, and WeatherBond.
 
-<Br/><br/>Once they imagine the full range of things that can go wrong or bad outcomes, they start figuring out how to
-handle them and this gives them a sense of control. Studies have shown that defensive pessimists tend to be
-very successful people, and their low opinion of outcomes isn't realistic; they use it to motivate themselves to
-perform better. If you pressure them into being optimistic, or try to manipulate their mood, their performance
-deteriorates.
+</br></br>Thermoplastic polyolefin (TPO) is the fastest-growing segment of the commercial roofing industry, and Carlisle is the leading supplier of this type of roofing material. Carlisle's white and tan Sure-Weld® TPO membranes are ENERGY STAR®-qualified and Cool Roof Rating Council (CRRC)-certified, and have been directly attributed to a reduction in energy use and cooling costs for buildings in warm, southern climates.
 
-<br/><br/>Defensive pessimism is a tool to prepare for everything, even failure. If you encounter failure, you are prepared,
-ready and hopefully it is not catastrophic. We will discuss tools to use in your personal and professional
-environment.
+</br></br>Plant 5 in Carlisle is CCM's newest TPO line. The line manufactures 12' wide sheet in a continuous roll process at roughly 200 M-ft2/year. The evening will share our TPO journey and how Carlisle's Operating System drives continual improvement. The evening culminates with a tour of the manufacturing line in Carlisle.
+
 
 </p>
-<h5>Who:</br></br>Mr. John Sharp, Global Quality Leader, TE Connectivity</h5>
+<h5>Who:</br></br>Ped Young, Plant Manager, Carlisle Construction Materials LLC</h5>
 
-<p class = general>TE Connectivity is the world's largest supplier of passive electronic components.
-<br/><br/>Mr. Sharp's current responsibilities include directing the global quality initiatives and policies for the
-Channel/Distribution BU of TE. This involves understanding the distribution and end-customers' expectations
-and providing an extraordinary customer experience while also achieving TE business objectives. In the recent
-past, John has led/administered the North American ISO/TL Quality Management System; as well as the Six
-Sigma and Lean process, quality metrics reporting and analysis. Mr. Sharp is responsible for establishing
-strategic plans, policies, and procedures at all levels to ensure the QA program will met or exceed internal and
-external customers' needs and expectations.
+<p class = general>Ped is originally from Camp Hill, PA and has a BS Degree in Chemical Engineering with a minor in Chemistry from Widener University. He has held numerous roles in manufacturing over the past 23 years with AMP / Tyco Electronics / TE Connectivity. The roles include: Process Engineer – Electroplating and Environmental, Project Engineer, Manufacturing Engineering Manager, Operations Manager, Multi-site Plant Manager.
 
-<br/><br/>Mr. Sharp teaches a variety of courses and seminars in TQM, Statistical Process Control, Quality Engineering
-and Auditing, Management, Marketing, Organizational Behavior, and Operations Management for the Penn
-State University- Middletown campus, Harrisburg Area Community College, Lebanon Valley College, and the
-Harrisburg section of the American Society for Quality. He is a past Chairman of the local ASQ section and is
-currently the education chairman.
+</br></br>Ped joined Carlisle Construction Materials in August, 2013 initially as the Operations Manager, Adhesive Plant. In early 2014, his role expanded to include Operations Manager duties for Plant 5 to build the TPO Manufacturing Team and Start-up CCM's 5th TPO Line. The line we will be touring. In 2016, Ped became Plant Manager for Plant 5, Plant 6 and the Carlisle Campus Shipping and Logistics organization.
+
+</br></br>Ped has two teenage daughters; a junior in high school and a freshman in college.  He is married and lives in Camp Hill with his wife, Lori.
+
 
 </p>
 <h2>IMPORTANT:</h2>
@@ -120,11 +104,11 @@ currently the education chairman.
 <input type="hidden" name="hosted_button_id" value="5A7HMMV3WC46Y">
 <table>
 <tr><td><input type="hidden" name="on0" value="Member Type">Member Type</td></tr><tr><td><select name="os0">
-	<option value="Non ASQ Harrisburg Section Member / Guest">Non ASQ Harrisburg Section Member / Guest $30.00 USD</option>
-	<option value="Student">Student $15.00 USD</option>
-	<option value="ASQ Harrisburg Section Member">ASQ Harrisburg Section Member $25.00 USD</option>
+	<option value="Student">Student $10.00 USD</option>
+	<option value="ASQ Harrisburg Section Member">ASQ Harrisburg Section Member $20.00 USD</option>
 </select> </td></tr>
 </table>
+<!--<option value="Non ASQ Harrisburg Section Member / Guest">Non ASQ Harrisburg Section Member / Guest $30.00 USD</option>-->
 <input type="hidden" name="currency_code" value="USD">
 <input id="payBtn" type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">

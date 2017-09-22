@@ -23,8 +23,8 @@
 <h2>Upcoming Chapter Programs:</h2>
 <br>
 <p class="info_header">Next Dinner Meeting<br>
-September 13, 2017</p>
-<p class="info_table">Planning for Failure: The Power of Defensive Pessimism</p>
+October 11, 2017</p>
+<p class="info_table">Plant Tour – Carlisle Construction Materials LLC (CCM)</p>
 <div class="navigator">
 <p class="tablebutton"><a href="dinnermeetings.php">Click for Details</a></p>
 </div>
