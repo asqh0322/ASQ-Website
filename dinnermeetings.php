@@ -101,7 +101,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <fieldset>
 <legend>Use the Pay Now button to complete registration and pay instantly</legend>
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="5A7HMMV3WC46Y">
+<input type="hidden" name="hosted_button_id" value="E3KXVSPEXNSGY">
 <table>
 <tr><td><input type="hidden" name="on0" value="Member Type">Member Type</td></tr><tr><td><select name="os0">
 	<option value="Student">Student $10.00 USD</option>
