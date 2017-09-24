@@ -29,8 +29,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <td>LOCATION</td>
  </tr>
 <tr class=datarow>
-  <td>01/11/2017</td>
-  <td>01/06/2017</td>
+  <td>01/11/17</td>
+  <td>01/06/17</td>
   <td>ISO 9001:2015 - The Next Generation:
 Highlights of New Concepts With A Focus on Context of the Organization</td>
   <td>Judi Markel, Owner ISO Advantage, LLC</td>
@@ -113,8 +113,8 @@ Highlights of New Concepts With A Focus on Context of the Organization</td>
    <td>LOCATION</td>
   </tr>
  <tr class=datarow>
-   <td>01/10/2018</td>
-   <td>01/05/2018</td>
+   <td>01/10/18</td>
+   <td>01/05/18</td>
    <td>The York Plan: York County Contributes to Winning World War II</td>
    <td>James McClure, Historian and Author Editor, York Daily Record</td>
    <td>York</td>
