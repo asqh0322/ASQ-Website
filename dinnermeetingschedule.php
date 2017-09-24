@@ -60,7 +60,7 @@ Highlights of New Concepts With A Focus on Context of the Organization</td>
 <tr class=datarow>
   <td>05/10/17</td>
   <td>05/05/17</td>
-  <td>Organizational Knowledge and Social Media: How should a QA professional “like” this mix?</td>
+  <td>Organizational Knowledge and Social Media: How should a QA professional "like" this mix?</td>
   <td>Paul Armstrong, Chief Innovation Officer eNthusaProve, LLC</td>
   <td>Lancaster</td>
   </tr>
@@ -100,6 +100,90 @@ Highlights of New Concepts With A Focus on Context of the Organization</td>
   <td>Harrisburg</td>
   </tr>
  </table>
+ </hr>
+ <table class=general>
+  <tr class=titlerow>
+   <td colspan=5>ASQ HARRISBURG 2018 MEETING SCHEDULE</td>
+  </tr>
+  <tr class=headrow>
+   <td Width=100>MEETING DATE</td>
+   <td width=125>REGISTRATION DEADLINE</td>
+   <td>TOPIC</td>
+   <td>SPEAKER</td>
+   <td>LOCATION</td>
+  </tr>
+ <tr class=datarow>
+   <td>01/10/2018</td>
+   <td>01/05/2018</td>
+   <td>The York Plan: York County Contributes to Winning World War II</td>
+   <td>James McClure, Historian and Author Editor, York Daily Record</td>
+   <td>York</td>
+  </tr>
+ <tr class=breakrow>
+   <td>02/14/18</td>
+   <td>02/09/18</td>
+   <td>Problem Solving: Are you barking up the wrong tree?</td>
+   <td>Craig Arello President, ASIX Quality</td>
+   <td>Harrisburg</td>
+  </tr>
+ <tr class=datarow>
+   <td>03/14/18</td>
+   <td>03/09/18</td>
+   <td>Organizational Knowledge and Social Media: How should a QA professional "like" this mix?</td>
+   <td>Paul Armstrong Chief Innovation Officer eNthusaProve, LLC</td>
+   <td>Lancaster</td>
+  </tr>
+ <tr class=breakrow>
+   <td>04/11/18</td>
+   <td>04/06/18</td>
+   <td>Site Visit: Distribution Center 4875 Susquehanna Trail York, PA</td>
+   <td>David Rotell President, ES3</td>
+   <td>Strinestown</td>
+  </tr>
+ <tr class=datarow>
+   <td>05/09/18</td>
+   <td>05/04/18</td>
+   <td>Joint Association Event Undergraduate Engineering Students, Elizabethtown College</td>
+   <td>Engineers for the 21st Century Student Projects</td>
+   <td>Elizabethtown</td>
+   </tr>
+ <tr class=breakrow>
+   <td>06/13/18</td>
+   <td>06/08/18</td>
+   <td>Section 503 Recognition & Awards Social Night Keynote Speaker</td>
+   <td>Dr. Terry Madonna, Ph.D. Director of the Center for Politics and Public Affairs</td>
+   <td>Lancaster</td>
+   </tr>
+ <tr class=datarow>
+   <td>09/12/18</td>
+   <td>09/07/18</td>
+   <td>Meeting the AS9100D Requirements for Counterfeit Part Control</td>
+   <td>Anne Poncheri, Principal AP Quality Consulting</td>
+   <td>York</td>
+   </tr>
+ <tr class=breakrow>
+   <td>10/10/18</td>
+   <td>10/05/18</td>
+   <td>Carlisle Construction Materials New Technical Training Center 1555 Ritner Highway, Carlisle, PA</td>
+   <td>Tim Wickard, Director Quality Systems</td>
+   <td>Carlisle</td>
+   </tr>
+ <tr class=datarow>
+   <td>11/14/18</td>
+   <td>11/09/18</td>
+   <td>Inspiring Innovation in Your Company or Organization</td>
+   <td>Glenn Ebersole Strategic Business Development/Marketing Executive & Leader</td>
+   <td>Lancaster</td>
+   </tr>
+ <tr class=breakrow>
+   <td>12/12/18</td>
+   <td>12/07/18</td>
+   <td>	Managing a Global Supply Chain in 2019</td>
+   <td>Mark D'Agostino VP of Supply Chain The AMEs Companies, Inc.</td>
+   <td>York</td>
+   </tr>
+  </table>
+
 
 <p /><hr />
 
