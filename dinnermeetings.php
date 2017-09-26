@@ -40,12 +40,12 @@ xmlns="http://www.w3.org/TR/REC-html40">
 
 <h3> 	Carlisle Construction Materials Technical Center 1555 Ritner Highway, Carlisle, PA 17013</h3>
 
-<h3>If you are traveling to the location from downtown Carlisle, you will need to pass several Carlisle buildings until you see a new building under construction on the right-hand side. Slow down and prepare to turn right into the driveway of the Technical Center which is partially hidden by a pile of dirt.
+<P class="general">If you are traveling to the location from downtown Carlisle, you will need to pass several Carlisle buildings until you see a new building under construction on the right-hand side. Slow down and prepare to turn right into the driveway of the Technical Center which is partially hidden by a pile of dirt.
 </br>If you are traveling from the west via route 465 the Technical Center is the first Carlisle building on the left-hand side after passing several warehouses.
 </br>Parking in in the rear of the building and follow the signs to enter the building and proceed to the large conference room.
 </br><strong>Note: Open-toed shoes, ties, and loose clothing are not permitted on the tour.  Please bring safety glasses if you have them (they will be provided for those without).
 </br></br>To accomodate tour capacity, registration is limited to the first 30 section members.</strong>
-</h3>
+</p>
 
 <hr class=dash \>
 
