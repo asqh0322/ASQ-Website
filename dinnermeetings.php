@@ -96,7 +96,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <hr />
 
 <p id="expireTime" class=section_header>Please register online by noon on Friday January 8, 2016</p>
-
+<p class=general>You may also choose to donate to the hurricane relief efforts through PayPal by selecting the appropriate option, below.  Thanks to all who choose to donate!</p> 
 <table align="center"><tr><td>
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
