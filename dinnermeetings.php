@@ -108,6 +108,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <tr><td><input type="hidden" name="on0" value="Member Type">Member Type</td></tr><tr><td><select name="os0">
 	<option value="Student">Student $10.00 USD</option>
 	<option value="ASQ Harrisburg Section Member">ASQ Harrisburg Section Member $20.00 USD</option>
+  <option value="Donation Only (not attending)">Donation Only (not attending) $10.00 USD</option>
 </select> </td></tr>
 </table>
 <!--<option value="Non ASQ Harrisburg Section Member / Guest">Non ASQ Harrisburg Section Member / Guest $30.00 USD</option>-->
