@@ -109,6 +109,10 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	<option value="Student">Student $10.00 USD</option>
 	<option value="ASQ Harrisburg Section Member">ASQ Harrisburg Section Member $20.00 USD</option>
   <option value="Donation Only (not attending)">Donation Only (not attending) $10.00 USD</option>
+  <option value="Donation II (not attending)">Donation II (not attending) $20.00 USD</option>
+	<option value="Donation III (not attending)">Donation III (not attending) $25.00 USD</option>
+	<option value="Donation IV (not attending)">Donation IV (not attending) $50.00 USD</option>
+	<option value="Donation V (not attending)">Donation V (not attending) $100.00 USD</option>
 </select> </td></tr>
 </table>
 <!--<option value="Non ASQ Harrisburg Section Member / Guest">Non ASQ Harrisburg Section Member / Guest $30.00 USD</option>-->
