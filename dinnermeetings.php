@@ -114,7 +114,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	<option value="Donation IV (not attending)">Donation IV (not attending) $50.00 USD</option>
 	<option value="Donation V (not attending)">Donation V (not attending) $100.00 USD</option>
 </select> </td></tr>
-<tr><td><p>Mobile users may now use their Venmo account to pay through PayPal</p></td></tr> 
+<tr><td><p>Mobile users may now use their Venmo account to pay through PayPal</br></br>
+Use Add to Cart button to Access PayPal, then choose Venmo as the payment method</p></td></tr> 
 </table>
 <!--<option value="Non ASQ Harrisburg Section Member / Guest">Non ASQ Harrisburg Section Member / Guest $30.00 USD</option>-->
 <input type="hidden" name="currency_code" value="USD">
