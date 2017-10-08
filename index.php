@@ -37,7 +37,8 @@ October 11, 2017</p>
 </tr>
 <tr><td> <p class = "info_header">ASQ Harrisburg offering Scholarship</p>
 <p class = "info_table">The Harrisburg Section of the American Society for Quality (ASQ) is pleased to announce the launch of an ASQ Section Member benefit scholarship to support members or their immediate families who are enrolled fulltime in college or university science, technology, engineering, and math (STEM) programs of study.</br>
-For more information and to apply: <a href="http://www.asq-harrisburg.org/news_files/ASQ%20-%20Scholarship%20Announcement%2010042017.docx"> View flyer</a></p>
+</br></br>Applications must be received on or before December 31, 2017.
+</br></br>For more information and to apply: <a href="http://www.asq-harrisburg.org/news_files/ASQ%20-%20Scholarship%20Announcement%2010042017.docx"> View flyer</a></p>
 </td></tr>
 
 <tr><td> <p class = "info_header">Fall 2017 Quality Conference</p>
