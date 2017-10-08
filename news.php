@@ -44,8 +44,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <a name=ASQLI></a>
 <p class="underline_head">ASQ Harrisburg offers Scholarship</p>
 <p class="general">The Harrisburg Section of the American Society for Quality (ASQ) is pleased to announce the launch of an ASQ Section Member benefit scholarship to support members or their immediate families who are enrolled fulltime in college or university science, technology, engineering, and math (STEM) programs of study.
-To be considered, please return the completed scholarship application included below along with an original essay no later than December 31, 2017.  The scholarship will be awarded at the January 2018 section dinner meeting with payment issued to the awardee’s institution for the fall 2018-2019 academic year.
-</br>For more information and to apply: <a href="http://www.asq-harrisburg.org/news_files/ASQ%20-%20Scholarship%20Announcement%2010042017.docx"> View flyer</a></p>
+To be considered, please return the completed scholarship application included below along with an original essay no later than December 31, 2017.  The scholarship will be awarded at the January 2018 section dinner meeting with payment issued to the awardee's institution for the fall 2018-2019 academic year.
+</br></br>For more information and to apply: <a href="http://www.asq-harrisburg.org/news_files/ASQ%20-%20Scholarship%20Announcement%2010042017.docx"> View flyer</a></p>
 
 <p class=underline_head>ASQ Learning Institute</p>
    <p class=general>The ASQ Learning Institute&#8482; Is Now Live - Learn Skills That Will Help Make Your World
