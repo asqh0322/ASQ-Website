@@ -116,14 +116,8 @@ posted on the site!</p>
 </li>
 </ul>
 </p>
-<p class="general">To apply, send resume to: </br>
-Alan Holcombe</br>
-  Senior Partner</br>
-  Transplant Leadership Institute LLC</br>
-
-<a href="mailto:alan@transplantleaders.com?Subject=Director of Quality and Regulatory Affairs">alan@transplantleaders.com</a></p>
-<p class="general">Website:
-<a href="http://www.transplantleaders.com/" target="blank">www.transplantleaders.com</a></p>
+<p class="general">Apply online at:
+<a href="http://http://www.transplantleaders.com/jobs/director-of-quality-and-regulatory-affairs//" target="blank">http://www.transplantleaders.com/jobs/director-of-quality-and-regulatory-affairs/</a></p>
 <p class="general"><a href="#Top" target="_self">Return to Top</a></p>
 </td>
 </tr>
