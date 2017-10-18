@@ -111,7 +111,7 @@ posted on the site!</p>
 <p class="general"><ul><li>RN, BA or BS degree in a related field is required.</li>
   <li>Minimum of 3 years of  leadership experience.</li>
 <li>Specific training in Quality Assurance/Process Improvement such as Lean, American Society of Quality (ASQ) and/or Six Sigma with strong analytical skills. Certification preferred.</li>
-<li>Previous QA/PI experience in a related environment – performing work directly related to process improvement.</li>
+<li>Previous QA/PI experience in a related environment - performing work directly related to process improvement.</li>
 <li>Previous experience in Strategic Planning and Baldrige preferred.
 </li>
 </ul>
