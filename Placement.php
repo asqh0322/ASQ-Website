@@ -117,7 +117,7 @@ posted on the site!</p>
 </ul>
 </p>
 <p class="general">Apply online at:
-<a href="http://http://www.transplantleaders.com/jobs/director-of-quality-and-regulatory-affairs/" target="blank">http://www.transplantleaders.com/jobs/director-of-quality-and-regulatory-affairs/</a></p>
+<a href="http://www.transplantleaders.com/jobs/director-of-quality-and-regulatory-affairs target="blank">www.transplantleaders.com/jobs/director-of-quality-and-regulatory-affairs</a></p>
 <p class="general"><a href="#Top" target="_self">Return to Top</a></p>
 </td>
 </tr>
