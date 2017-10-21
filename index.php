@@ -23,8 +23,8 @@
 <h2>Upcoming Chapter Programs:</h2>
 <br>
 <p class="info_header">Next Dinner Meeting<br>
-June 14, 2017</p>
-<p class="info_table">5th Annual Section 0503 Recognition and Awards Social Night</p>
+October 11, 2017</p>
+<p class="info_table">Plant Tour - Carlisle Construction Materials LLC (CCM)</p>
 <div class="navigator">
 <p class="tablebutton"><a href="dinnermeetings.php">Click for Details</a></p>
 </div>
@@ -32,9 +32,14 @@ June 14, 2017</p>
 </tr>
 <tr>
 <td>
-<p class="info_header">New News - last update August 2017</p>
+<p class="info_header">New News - last update October 2017</p>
 </td>
 </tr>
+<tr><td> <p class = "info_header">ASQ Harrisburg offering Scholarship</p>
+<p class = "info_table">The Harrisburg Section of the American Society for Quality (ASQ) is pleased to announce the launch of an ASQ Section Member benefit scholarship to support members or their immediate families who are enrolled fulltime in college or university science, technology, engineering, and math (STEM) programs of study.
+</br></br>Applications must be received on or before December 31, 2017.
+</br></br>For more information and to apply: <a href="http://www.asq-harrisburg.org/news_files/ASQ%20-%20Scholarship%20Announcement%2010042017.docx"> View flyer</a></p>
+</td></tr>
 
 <tr><td> <p class = "info_header">Fall 2017 Quality Conference</p>
 <p class = "info_table">Presented by ASQ Section 505 Philadelphia</br>
@@ -94,7 +99,7 @@ Magazine</a></p>
 <tr height="80">
 <td>
 <div class="navcenter">
-<p class="tablebutton"><a href="http://www.asq-harrisburg.org/home_files/Harrisburg ASQ Newsletter June 2017.pdf" target="_blank">Link to Current Newsletter</a></p>
+<p class="tablebutton"><a href="http://www.asq-harrisburg.org/home_files/Harrisburg ASQ Newsletter September 2017.pdf" target="_blank">Link to Current Newsletter</a></p>
 </div>
 </td>
 <td>

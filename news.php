@@ -1,4 +1,4 @@
-<html xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+  <html xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
 xmlns="http://www.w3.org/TR/REC-html40">
 
 <link href="asqhburg.css" type="text/css" rel="stylesheet">
@@ -41,7 +41,13 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <table id=general>
 
 <tr><td class=tdborder>
-<a name=ASQLI></a><p class=underline_head>ASQ Learning Institute</p>
+<a name=ASQLI></a>
+<p class="underline_head">ASQ Harrisburg offers Scholarship</p>
+<p class="general">The Harrisburg Section of the American Society for Quality (ASQ) is pleased to announce the launch of an ASQ Section Member benefit scholarship to support members or their immediate families who are enrolled fulltime in college or university science, technology, engineering, and math (STEM) programs of study.
+To be considered, please return the completed scholarship application included below along with an original essay no later than December 31, 2017.  The scholarship will be awarded at the January 2018 section dinner meeting with payment issued to the awardee's institution for the fall 2018-2019 academic year.
+</br></br>For more information and to apply: <a href="http://www.asq-harrisburg.org/news_files/ASQ%20-%20Scholarship%20Announcement%2010042017.docx"> View flyer</a></p>
+
+<p class=underline_head>ASQ Learning Institute</p>
    <p class=general>The ASQ Learning Institute&#8482; Is Now Live - Learn Skills That Will Help Make Your World
    Better Quality: The Cause of Good Things in the World Quality techniques from ASQ enable doctors like Dr. Manu
    Vora, an ASQ Fellow - and the Blind Foundation for India, which he co-founded-to help cure and prevent blindness

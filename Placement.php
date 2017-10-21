@@ -49,7 +49,7 @@ members</a> </div>
 <td class="tdbox">
 <div class="dropdown"><button onclick="myFunction('jobMenu')" class="dropbtn" data-toggle="dropdown">View Job Postings</button>
 <div id="jobMenu" class="dropdown-content">
-<a href="#QT">No Current Postings</a>
+<a href="#QT">Quality Engineer</a><a href="#QD">Director of Quality and Regulatory Affairs</a>
 </div>
 </div>
 </td>
@@ -95,25 +95,71 @@ posted on the site!</p>
 </td>
 </tr>
 <tr>
-<td class="tdbox"><a name="QT"></a>Posted:
-TBD</td>
+<td class="tdbox"><a name="QD"></a>Posted:
+10/17/2017</td>
 </tr>
 <tr>
 <td class="tdborder">
-<p class="section_header">No Current Posting</p>
+<p class="section_header">Director of Quality and Regulatory Affairs</p>
 </td>
 </tr>
 <tr>
 <td class="tdborder">
-<p class="underline_head">Job Requirements:</p>
-<p class="general"><ul><li>No current requirements</li></ul></p>
-<p class="underline_head">Job Duties:</p>
-<p class="general">
-<ul><li>NO current job duties</li>
+<p class="underline_head">Job Overview:</p>
+<p class="general">The Director administers and manages the Quality Improvement Program and serves as an integral member of the Executive Leadership Team. Other duties include: develops and implements a quality improvement plan in accordance with the mission and strategic goals of the organization, federal and state laws and regulations, and accreditation standards. The Director is responsible for organizing efforts to support continuous quality improvement of procedures through audits in order to detect, assess, investigate, correct and prevent deficiencies in clinical operations and ensures that all regulatory requirements are met.</br></br>This position is based in Pittsburg and is in the healthcare industry.  Prior experience is beneficial.  Salary range: $140K - $150K </p></br>
+<p class="underline_head">Qualifications:</p>
+<p class="general"><ul><li>RN, BA or BS degree in a related field is required.</li>
+  <li>Minimum of 3 years of  leadership experience.</li>
+<li>Specific training in Quality Assurance/Process Improvement such as Lean, American Society of Quality (ASQ) and/or Six Sigma with strong analytical skills. Certification preferred.</li>
+<li>Previous QA/PI experience in a related environment - performing work directly related to process improvement.</li>
+<li>Previous experience in Strategic Planning and Baldrige preferred.
+</li>
 </ul>
 </p>
-<p class="general">To apply, send resume to: <a href="mailto:noaddress@nogmail.com?Subject=No Posting">noaddress@noemail.com</a></p>
+<p class="general">Apply online at:
+<a href="http://www.transplantleaders.com/jobs/director-of-quality-and-regulatory-affairs/" target="blank">www.transplantleaders.com/jobs/director-of-quality-and-regulatory-affairs/</a></p>
+<p class="general"><a href="#Top" target="_self">Return to Top</a></p>
+</td>
+</tr>
+<tr>
+<td class="tdbox"><a name="QT"></a>Posted:
+9/11/2017</td>
+</tr>
+<tr>
+<td class="tdborder">
+<p class="section_header">Quality Engineer</p>
+</td>
+</tr>
+<tr>
+<td class="tdborder">
+<p class="underline_head">Job Overview:</p>
+<p class="general">This position will be responsible for planning and directing activities of a complex nature to assure that dimensional, material, and visual characteristics of a product's design, as documented on drawing, specifications, and quality standards are consistently produced, and that product of acceptable quality are sent to the customer.</p></br>
+<p class="underline_head">Job Requirements:</p>
+<p class="general"><ul><li>Bachelor's degree or equivalent Quality Engineering experience</li>
+<li>Minimum 3 years quality engineering experience</li>
+<li>Understanding and creation of FEMA, PPAP, 8D, and other quality documentation
+</li></ul></p>
+<p class="underline_head">Job Duties:</p>
+<p class="general">
+<ul><li>Review of customer drawings and specifications to determine compatibility with internal manufacturing.  Assures compliance to customer quality specifications, certifications, testing, and other contractual requirements</li>
+<li>Coordinates the resolution of any special, quality, test or certification requirements on cooperation with product engineering assuring overall agreement between Tooling Dynamics and customer drawings and specifications</li>
+<li>Specifies and/or provides the use of gages, measuring devices and testing equipment used to determine acceptability of productive material</li>
+<li>Provides support when required for the disposition of non-conforming material and assistance in root cause- corrective action investigation</li>
+<li>Performs supplier audits and approvals</li>
+<li>Defines control points within the manufacturing processes and implements them through the use of quality inspection plan</li>
+<li>Development of PPAP documentation
+</li>
+</ul>
+</p>
+<p class="general">To apply, send resume to: </br>
+  Tooling Dynamics, LLC</br>
+  Cynthia Shaffer</br>
+  905 Vogelsong Road</br>
+  York, PA 17404</br>
 
+<a href="mailto:cshaffer@toolingdynamics.com?Subject=Quality Engineer Position">cshaffer@toolingdynamics.com</a></p>
+<p class="general">Learn more about Tooling Dynamics, LLC:
+<a href="http://www.toolingdynamics.com/" target="blank">www.toolingdynamics.com</a></p>
 <p class="general"><a href="#Top" target="_self">Return to Top</a></p>
 </td>
 </tr>

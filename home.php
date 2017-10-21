@@ -11,6 +11,8 @@
 <hr class="gradient_blue" />
 <p><strong>THIS PAGE IS NOT USED</strong></p>
 
+<p>Test of GIT upload</p>
+
 <table border="25" height="578" width="100%">
 <tbody>
 <tr>

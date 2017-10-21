@@ -20,9 +20,9 @@ xmlns="http://www.w3.org/TR/REC-html40">
 
 <h2>ASQ Harrisburg Section 503</h2>
 
-<table class=button><tr><td><h3>When: </h3></td><td colspan=3><h3>Wednesday, June 14, 2017</h3></td></tr></table>
+<table class=button><tr><td><h3>When: </h3></td><td colspan=3><h3>Wednesday, October 11, 2017</h3></td></tr></table>
 
-<table class=button><tr><td><h3>Please register online by:</h3></td><td><h3 id="regEnd">06/09/2017</h3></td><td><h3>at:</h3></td><td><h3 id="timeEnd">02:30 PM</h3></td></tr>
+<table class=button><tr><td><h3>Please register online by:</h3></td><td><h3 id="regEnd">10/06/2017</h3></td><td><h3>at:</h3></td><td><h3 id="timeEnd">02:30 PM</h3></td></tr>
 <tr><td colspan=5><p class=info_header>Registration can be completed, below</p></td></tr></table>
 
 <hr/>
@@ -38,40 +38,56 @@ xmlns="http://www.w3.org/TR/REC-html40">
 
 <hr class=dash />
 
-<h3> Four Points by Sheraton York, 1650 Toronita Street, York, PA 17402</h3>
+<h3> 	Carlisle Construction Materials Technical Center 1555 Ritner Highway, Carlisle, PA 17013</h3>
 
-<h3><a href="http://www.asq-harrisburg.org/yorka.pdf" target="_blank">York Four Points Sheraton Directions</a></h3>
+<P class="general">If you are traveling to the location from downtown Carlisle, you will need to pass several Carlisle buildings until you see a new building under construction on the right-hand side. Slow down and prepare to turn right into the driveway of the Technical Center which is partially hidden by a pile of dirt.
+</br>If you are traveling from the west via route 465 the Technical Center is the first Carlisle building on the left-hand side after passing several warehouses.
+</br>Parking in in the rear of the building and follow the signs to enter the building and proceed to the large conference room.
+</br><strong>Note: Open-toed shoes, ties, and loose clothing are not permitted on the tour.  Please bring safety glasses if you have them (they will be provided for those without).
+</br></br>To accomodate tour capacity, registration is limited to the first 30 section members.</strong>
+</p>
 
 <hr class=dash \>
 
 <h3>Menu:</h3>
-<p class=emphasis><strong>Classic 4Pts. Buffet:</strong> Appetizers - Chef's choice; Fresh mixed Baby Greens w/Vinaigrette, Caesar Salad, and two Chef Specialty Salads;
-<br/>Grilled NY Sirloin Steak and Grilled Salmon w/dill sauce;
-<br/>Whipped potatoes and Seasonal Veggies;
-<br/>Rolls and butter, Coffee and Tea service;
-<br/>Assorted Desserts table
-<br/><br/>Each registered attendee will receive two free drink vouchers good for cocktails, wine, beer or soda
+<p class=emphasis><strong>Buffet:</strong> Mini-salad bar; Pot roast, Turkey, Vegetarian entree; Pumpkin pie or apple slices
 </p>
 
 <hr class=dash />
 
 <table><th><h3>Cost:</h3></th>
 
-<tr class=general><td class=bold>Pre-Registered:</td><td class=bottom>Section Members - $25.00 each | Guests/Non-Members - $30.00 | Students - $15.00</td></tr>
-<tr class=general><td class=bold>At the Door:</td><td class = bottom>Section Members - $30.00 each | Guests/Non-Members - $35.00 | Students - $15.00</td></tr>
-<tr class=general><td class=bold>Note:</td><td class = bottom>If you are receiving an award and have already sent your RSVP, there is no need to register online.</td></tr>
+<tr class=general><td class=bold>Pre-Registered:</td><td class=bottom>Section Members - $20.00 each | Students - $10.00</td></tr>
+<tr class=general><td class=bold>At the Door:</td><td class = bottom>There is a maximum of 30 Section Members for this event.  At-the-door registrations will not be accepted</td></tr>
+<tr class=general><td class=bold>Note:</td><td class = bottom>Funds collected for this event will be donated to Hurricane relief organizations.  Those who cannot attend may donate on-line or by sending a check to the Section Treasurer.
+
+</td></tr>
 </table>
 
 <hr class=dash />
 
-<h5>What:</br></br>Quality Profession, Skills and Technology: Yesterday, Today, Tomorrow:</h5>
+<h5>What:</br></br>Plant Tour - Carlisle Construction Materials LLC (CCM):</h5>
+
+<p class=general>Carlisle Construction Materials LLC (CCM) is a diversified manufacturer and supplier of premium building products and related technologies for the commercial and residential construction markets. Carlisle has been a recognized leader in the roofing industry for nearly half a century, offering high-performance single-ply roofing solutions that include EPDM, TPO, PVC and roof garden systems. Carlisle also offers a full line of polyiso and expanded polystyrene insulation as well as a host of steep slope underlayments, duct sealants, adhesives and hardware. Every Carlisle Company offers sustainable, eco-friendly products that help reduce a building's carbon footprint, and often minimize its energy consumption and costs.
+
+</br></br>CCM is a $2 billion division of Carlisle Companies (NYSE:CSL). It employs over 2,400 people and operates 26 plants in North America and 5 in Europe. CCM companies include: Carlisle SynTec Systems, Carlisle WIP Products, Carlisle Coatings & Waterproofing, Carlisle HVAC Products, Hunter Panels, Insulfoam, Carlisle International, Premier SIPs, Versico Roofing Systems, and WeatherBond.
+
+</br></br>Thermoplastic polyolefin (TPO) is the fastest-growing segment of the commercial roofing industry, and Carlisle is the leading supplier of this type of roofing material. Carlisle's white and tan Sure-Weld® TPO membranes are ENERGY STAR®-qualified and Cool Roof Rating Council (CRRC)-certified, and have been directly attributed to a reduction in energy use and cooling costs for buildings in warm, southern climates.
+
+</br></br>Plant 5 in Carlisle is CCM's newest TPO line. The line manufactures 12' wide sheet in a continuous roll process at roughly 200 M-ft2/year. The evening will share our TPO journey and how Carlisle's Operating System drives continual improvement. The evening culminates with a tour of the manufacturing line in Carlisle.
 
 
-<p class=general>Quality, as a profession, is a constant from the European Guilds, 1000 years ago, to contemporary cyber-warfare. However, the control of the definition and measurement of Quality is evolving from the hands of the practitioner to the keystroke of the internet expert.  This session reviews the vital relationship between the Quality Profession, relevant skills and technology in the past and present. Using practical examples, the session suggests how those in the profession of quality can incrementally prepare for and control future standards in business and industry, healthcare, and education.</p>
+</p>
+<h5>Who:</br></br>Ped Young, Plant Manager, Carlisle Construction Materials LLC</h5>
 
-<h5>Who:</br></br>Dr. Bob Gee, MBB</h5>
+<p class = general>Ped is originally from Camp Hill, PA and has a BS Degree in Chemical Engineering with a minor in Chemistry from Widener University. He has held numerous roles in manufacturing over the past 23 years with AMP / Tyco Electronics / TE Connectivity. The roles include: Process Engineer - Electroplating and Environmental, Project Engineer, Manufacturing Engineering Manager, Operations Manager, Multi-site Plant Manager.
 
-<p class = general>Dr. Bob Gee, Ph.D. achieved international, national and state recognitions for higher education achievements in quality management.  Dr. Gee was a pilot Baldrige Examiner in Education and Healthcare, guest speaker at Yale University, and recipient of the federal "Excellence in Government" award for design of educational programs at the United States Coast Guard.  Dr. Gee's keynote presentations include an ISO series in Lebanon, on medical education and quality practice in Davos, Switzerland, as Judge of International Team awards for Phillips Lighting, and on global quality standards at the China National Six Sigma Conference.  His history of public service and support of ASQ includes national Board Member of ASQ, guest speaker at ASQ regional conferences, Board Member and guest Examiner of State Quality Awards, and Governor's Committee for Education. He created and implemented private-public sector quality programs for sponsors such as the Institute of Canadian Bankers and Canadian International Development Agency in the Pacific Rim.   Dr. Gee has founded Higher Education Institution(s) offering Bachelors Completion through Doctor of Business Administration Degrees in Quality, Healthcare and Education and Lean Thinking and Post-Doctoral Fellows Program Certifications.  He has won "Teacher of the Year" awards for process improvement projects at diverse sponsors such as Center for Medicaid Services and United Technologies.</p>
+</br></br>Ped joined Carlisle Construction Materials in August, 2013 initially as the Operations Manager, Adhesive Plant. In early 2014, his role expanded to include Operations Manager duties for Plant 5 to build the TPO Manufacturing Team and Start-up CCM's 5th TPO Line. The line we will be touring. In 2016, Ped became Plant Manager for Plant 5, Plant 6 and the Carlisle Campus Shipping and Logistics organization.
+
+</br></br>Ped has two teenage daughters; a junior in high school and a freshman in college.  He is married and lives in Camp Hill with his wife, Lori.
+
+
+</p>
 <h2>IMPORTANT:</h2>
 
 <h3 class=emphasis>Note: New Policy</h3>
@@ -80,21 +96,28 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <hr />
 
 <p id="expireTime" class=section_header>Please register online by noon on Friday January 8, 2016</p>
-
+<p class=gen_header>You may choose to donate to the hurricane relief efforts through PayPal by selecting the appropriate option, below.  Thanks to all who choose to donate!</p>
 <table align="center"><tr><td>
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <fieldset>
 <legend>Use the Pay Now button to complete registration and pay instantly</legend>
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="5A7HMMV3WC46Y">
+<input type="hidden" name="hosted_button_id" value="E3KXVSPEXNSGY">
 <table>
 <tr><td><input type="hidden" name="on0" value="Member Type">Member Type</td></tr><tr><td><select name="os0">
-	<option value="Non ASQ Harrisburg Section Member / Guest">Non ASQ Harrisburg Section Member / Guest $30.00 USD</option>
-	<option value="Student">Student $15.00 USD</option>
-	<option value="ASQ Harrisburg Section Member">ASQ Harrisburg Section Member $25.00 USD</option>
+	<option value="Student">Student $10.00 USD</option>
+	<option value="ASQ Harrisburg Section Member">ASQ Harrisburg Section Member $20.00 USD</option>
+  <option value="Donation Only (not attending)">Donation Only (not attending) $10.00 USD</option>
+  <option value="Donation II (not attending)">Donation II (not attending) $20.00 USD</option>
+	<option value="Donation III (not attending)">Donation III (not attending) $25.00 USD</option>
+	<option value="Donation IV (not attending)">Donation IV (not attending) $50.00 USD</option>
+	<option value="Donation V (not attending)">Donation V (not attending) $100.00 USD</option>
 </select> </td></tr>
+<tr><td><p><br/>Mobile users may now use their Venmo account to pay through PayPal</br></br>
+Use Add to Cart button to Access PayPal, then choose Venmo as the payment method</p></td></tr>
 </table>
+<!--<option value="Non ASQ Harrisburg Section Member / Guest">Non ASQ Harrisburg Section Member / Guest $30.00 USD</option>-->
 <input type="hidden" name="currency_code" value="USD">
 <input id="payBtn" type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
