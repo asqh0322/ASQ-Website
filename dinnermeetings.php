@@ -66,22 +66,22 @@ Cheese Cake; Coffee & Tea service</p>
 
 <h5>What:</br></br>Dealing with Difficult Team Members and Stakeholders:</h5>
 
-<p class=general>Much of the workplace centers around negotiation—objectives, expectations, timeframe, and budget. There are occasions where negotiation may be impossible, such as when budget limitations simply won’t allow additional money to be approved, but sometimes plain human stubbornness keeps the team from making progress.
+<p class=general>Much of the workplace centers around negotiation-objectives, expectations, timeframe, and budget. There are occasions where negotiation may be impossible, such as when budget limitations simply won't allow additional money to be approved, but sometimes plain human stubbornness keeps the team from making progress.
 
-</br></br>Stakeholders and Team Members are critical to any organization’s success—teams rely on them for
-information, feedback, and support. But occasionally you’ll come across a stakeholder or team member that
+</br></br>Stakeholders and Team Members are critical to any organization's success-teams rely on them for
+information, feedback, and support. But occasionally you'll come across a stakeholder or team member that
 adds more hassle than help.
 
 </br></br>Together we will explore a field guide to help you spot the four most common, difficult stakeholders and team
-members and learn how to deal with the “Name Dropper”, the “Empire Builder”, the “Vanisher” and the
-“Bosser”.
+members and learn how to deal with the "Name Dropper", the "Empire Builder", the "Vanisher" and the
+"Bosser".
 </p>
 
 <h5>Who:</br></br>Myles Miller, CEO, Author and Radio Host</h5>
 
-<p class = general>Multi-national CEO, two-time Best Selling Author and Radio Host of “Myles of SUCCESS”, Myles Miller is the CEO and Founder of LEADUP, LearningBreaks and SUCCESSHQ, international training and success development companies spanning 6 continents and employing 500 plus contractors operating in over 100 countries around the globe.
+<p class = general>Multi-national CEO, two-time Best Selling Author and Radio Host of "Myles of SUCCESS", Myles Miller is the CEO and Founder of LEADUP, LearningBreaks and SUCCESSHQ, international training and success development companies spanning 6 continents and employing 500 plus contractors operating in over 100 countries around the globe.
 
-<br/><br/>Myles has over 30 years’ experience in the project management field, across multiple industries including retail,
+<br/><br/>Myles has over 30 years' experience in the project management field, across multiple industries including retail,
 defense, state and federal government, international countries and hospitality. During his varied career, he has
 led projects and programs impacting the United States and countries abroad ranging in budgetary size from
 $100K to $500B and leading teams of over 10,000 members.
