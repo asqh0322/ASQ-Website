@@ -26,7 +26,7 @@
 		<tr>
 		<td></td>
 		<td><p class="tablebutton"><a href="http://www.asq-harrisburg.org/home_files/Harrisburg ASQ Newsletter November 2017.pdf" target="blank">November 2017</p></td>
-		<td><p class="tablebutton"><a href="http://www.asq-harrisburg.org/home_files/Harrisburg ASQ Newsletter October 2017.pdf" target="blank">October 2017 N/A</p></td>
+		<td><p class="tablebutton"><a href="http://www.asq-harrisburg.org/newsletter.php" target="blank">October 2017 N/A</p></td>
 		<td><p class="tablebutton"><a href="http://www.asq-harrisburg.org/home_files/Harrisburg ASQ Newsletter September 2017.pdf" target="blank">September 2017</p></td>
 		<td class="td"><p class="tablebutton"><a href="http://www.asq-harrisburg.org/home_files/Harrisburg ASQ Newsletter June 2017.pdf" target="blank">June 2017</p>
 			</td>
