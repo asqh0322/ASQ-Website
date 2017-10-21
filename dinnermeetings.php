@@ -20,9 +20,9 @@ xmlns="http://www.w3.org/TR/REC-html40">
 
 <h2>ASQ Harrisburg Section 503</h2>
 
-<table class=button><tr><td><h3>When: </h3></td><td colspan=3><h3>Wednesday, October 11, 2017</h3></td></tr></table>
+<table class=button><tr><td><h3>When: </h3></td><td colspan=3><h3>Wednesday, November 8, 2017</h3></td></tr></table>
 
-<table class=button><tr><td><h3>Please register online by:</h3></td><td><h3 id="regEnd">10/06/2017</h3></td><td><h3>at:</h3></td><td><h3 id="timeEnd">02:30 PM</h3></td></tr>
+<table class=button><tr><td><h3>Please register online by:</h3></td><td><h3 id="regEnd">11/03/2017</h3></td><td><h3>at:</h3></td><td><h3 id="timeEnd">02:30 PM</h3></td></tr>
 <tr><td colspan=5><p class=info_header>Registration can be completed, below</p></td></tr></table>
 
 <hr/>
@@ -38,56 +38,58 @@ xmlns="http://www.w3.org/TR/REC-html40">
 
 <hr class=dash />
 
-<h3> 	Carlisle Construction Materials Technical Center 1555 Ritner Highway, Carlisle, PA 17013</h3>
+<h3>Four Points by Sheraton York 1650 Toronita Street, York, PA 17402 Phone:  717-846-4940</h3>
 
-<P class="general">If you are traveling to the location from downtown Carlisle, you will need to pass several Carlisle buildings until you see a new building under construction on the right-hand side. Slow down and prepare to turn right into the driveway of the Technical Center which is partially hidden by a pile of dirt.
-</br>If you are traveling from the west via route 465 the Technical Center is the first Carlisle building on the left-hand side after passing several warehouses.
-</br>Parking in in the rear of the building and follow the signs to enter the building and proceed to the large conference room.
-</br><strong>Note: Open-toed shoes, ties, and loose clothing are not permitted on the tour.  Please bring safety glasses if you have them (they will be provided for those without).
-</br></br>To accomodate tour capacity, registration is limited to the first 30 section members.</strong>
-</p>
+<P class="general"><a href="http://www.asq-harrisburg.org/yorka.pdf" target="_blank">York Four Points Sheraton Directions</a></p>
 
 <hr class=dash \>
 
 <h3>Menu:</h3>
-<p class=emphasis><strong>Buffet:</strong> Mini-salad bar; Pot roast, Turkey, Vegetarian entree; Pumpkin pie or apple slices
-</p>
+<p class=emphasis><strong>A Taste of Italy:</strong> Baby Spinach and Bay Shrimp, Roasted Peppers and Artichoke Hearts and Italian
+Balsamic Dressing; Buffalo Mozzarella, Sliced Roma tomatoes served with Chiffonade of Basil Italian
+Dressing; Assorted Antipasto to include a variety of Marinated Olives, Italian Cured Meats and Cheeses;
+Grilled Pesto Marinated Chicken with Pan Juices and Mushroom; Meatless Eggplant Parmesan; Pistachio-
+Crusted Pan Seared Salmon Filet with Wilted Greens Artisan Bread Display; and, Tiramisu and Ricotta
+Cheese Cake; Coffee & Tea service</p>
 
 <hr class=dash />
 
 <table><th><h3>Cost:</h3></th>
 
-<tr class=general><td class=bold>Pre-Registered:</td><td class=bottom>Section Members - $20.00 each | Students - $10.00</td></tr>
-<tr class=general><td class=bold>At the Door:</td><td class = bottom>There is a maximum of 30 Section Members for this event.  At-the-door registrations will not be accepted</td></tr>
-<tr class=general><td class=bold>Note:</td><td class = bottom>Funds collected for this event will be donated to Hurricane relief organizations.  Those who cannot attend may donate on-line or by sending a check to the Section Treasurer.
+<tr class=general><td class=bold>Pre-Registered:</td><td class=bottom>Section Members - $25.00 each | Guests - $30.00 | Students - $15.00</td></tr>
+<tr class=general><td class=bold>At the Door:</td><td class = bottom>Section Members - $30.00 each | Guests - $35.00 | Students - $15.00</td></tr>
 
 </td></tr>
 </table>
 
 <hr class=dash />
 
-<h5>What:</br></br>Plant Tour - Carlisle Construction Materials LLC (CCM):</h5>
+<h5>What:</br></br>Dealing with Difficult Team Members and Stakeholders:</h5>
 
-<p class=general>Carlisle Construction Materials LLC (CCM) is a diversified manufacturer and supplier of premium building products and related technologies for the commercial and residential construction markets. Carlisle has been a recognized leader in the roofing industry for nearly half a century, offering high-performance single-ply roofing solutions that include EPDM, TPO, PVC and roof garden systems. Carlisle also offers a full line of polyiso and expanded polystyrene insulation as well as a host of steep slope underlayments, duct sealants, adhesives and hardware. Every Carlisle Company offers sustainable, eco-friendly products that help reduce a building's carbon footprint, and often minimize its energy consumption and costs.
+<p class=general>Much of the workplace centers around negotiation—objectives, expectations, timeframe, and budget. There are occasions where negotiation may be impossible, such as when budget limitations simply won’t allow additional money to be approved, but sometimes plain human stubbornness keeps the team from making progress.
 
-</br></br>CCM is a $2 billion division of Carlisle Companies (NYSE:CSL). It employs over 2,400 people and operates 26 plants in North America and 5 in Europe. CCM companies include: Carlisle SynTec Systems, Carlisle WIP Products, Carlisle Coatings & Waterproofing, Carlisle HVAC Products, Hunter Panels, Insulfoam, Carlisle International, Premier SIPs, Versico Roofing Systems, and WeatherBond.
+</br></br>Stakeholders and Team Members are critical to any organization’s success—teams rely on them for
+information, feedback, and support. But occasionally you’ll come across a stakeholder or team member that
+adds more hassle than help.
 
-</br></br>Thermoplastic polyolefin (TPO) is the fastest-growing segment of the commercial roofing industry, and Carlisle is the leading supplier of this type of roofing material. Carlisle's white and tan Sure-Weld® TPO membranes are ENERGY STAR®-qualified and Cool Roof Rating Council (CRRC)-certified, and have been directly attributed to a reduction in energy use and cooling costs for buildings in warm, southern climates.
-
-</br></br>Plant 5 in Carlisle is CCM's newest TPO line. The line manufactures 12' wide sheet in a continuous roll process at roughly 200 M-ft2/year. The evening will share our TPO journey and how Carlisle's Operating System drives continual improvement. The evening culminates with a tour of the manufacturing line in Carlisle.
-
-
+</br></br>Together we will explore a field guide to help you spot the four most common, difficult stakeholders and team
+members and learn how to deal with the “Name Dropper”, the “Empire Builder”, the “Vanisher” and the
+“Bosser”.
 </p>
-<h5>Who:</br></br>Ped Young, Plant Manager, Carlisle Construction Materials LLC</h5>
 
-<p class = general>Ped is originally from Camp Hill, PA and has a BS Degree in Chemical Engineering with a minor in Chemistry from Widener University. He has held numerous roles in manufacturing over the past 23 years with AMP / Tyco Electronics / TE Connectivity. The roles include: Process Engineer - Electroplating and Environmental, Project Engineer, Manufacturing Engineering Manager, Operations Manager, Multi-site Plant Manager.
+<h5>Who:</br></br>Myles Miller, CEO, Author and Radio Host</h5>
 
-</br></br>Ped joined Carlisle Construction Materials in August, 2013 initially as the Operations Manager, Adhesive Plant. In early 2014, his role expanded to include Operations Manager duties for Plant 5 to build the TPO Manufacturing Team and Start-up CCM's 5th TPO Line. The line we will be touring. In 2016, Ped became Plant Manager for Plant 5, Plant 6 and the Carlisle Campus Shipping and Logistics organization.
+<p class = general>Multi-national CEO, two-time Best Selling Author and Radio Host of “Myles of SUCCESS”, Myles Miller is the CEO and Founder of LEADUP, LearningBreaks and SUCCESSHQ, international training and success development companies spanning 6 continents and employing 500 plus contractors operating in over 100 countries around the globe.
 
-</br></br>Ped has two teenage daughters; a junior in high school and a freshman in college.  He is married and lives in Camp Hill with his wife, Lori.
+<br/><br/>Myles has over 30 years’ experience in the project management field, across multiple industries including retail,
+defense, state and federal government, international countries and hospitality. During his varied career, he has
+led projects and programs impacting the United States and countries abroad ranging in budgetary size from
+$100K to $500B and leading teams of over 10,000 members.
 
-
+</br></br>Myles has a BS in Business Management from Penn State University and a MBA from La Salle University in
+International Business Management and recently acquired his PhD from Baylor University.
 </p>
+
 <h2>IMPORTANT:</h2>
 
 <h3 class=emphasis>Note: New Policy</h3>
@@ -103,16 +105,12 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <fieldset>
 <legend>Use the Pay Now button to complete registration and pay instantly</legend>
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="E3KXVSPEXNSGY">
+<input type="hidden" name="hosted_button_id" value="5A7HMMV3WC46Y">
 <table>
 <tr><td><input type="hidden" name="on0" value="Member Type">Member Type</td></tr><tr><td><select name="os0">
-	<option value="Student">Student $10.00 USD</option>
-	<option value="ASQ Harrisburg Section Member">ASQ Harrisburg Section Member $20.00 USD</option>
-  <option value="Donation Only (not attending)">Donation Only (not attending) $10.00 USD</option>
-  <option value="Donation II (not attending)">Donation II (not attending) $20.00 USD</option>
-	<option value="Donation III (not attending)">Donation III (not attending) $25.00 USD</option>
-	<option value="Donation IV (not attending)">Donation IV (not attending) $50.00 USD</option>
-	<option value="Donation V (not attending)">Donation V (not attending) $100.00 USD</option>
+  <option value="Non ASQ Harrisburg Section Member / Guest">Non ASQ Harrisburg Section Member / Guest $30.00 USD</option>
+	<option value="Student">Student $15.00 USD</option>
+	<option value="ASQ Harrisburg Section Member">ASQ Harrisburg Section Member $25.00 USD</option>
 </select> </td></tr>
 <tr><td><p><br/>Mobile users may now use their Venmo account to pay through PayPal</br></br>
 Use Add to Cart button to Access PayPal, then choose Venmo as the payment method</p></td></tr>

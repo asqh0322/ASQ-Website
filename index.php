@@ -23,8 +23,8 @@
 <h2>Upcoming Chapter Programs:</h2>
 <br>
 <p class="info_header">Next Dinner Meeting<br>
-October 11, 2017</p>
-<p class="info_table">Plant Tour - Carlisle Construction Materials LLC (CCM)</p>
+November 8, 2017</p>
+<p class="info_table">Dealing with Difficult Team Members and Stakeholders</p>
 <div class="navigator">
 <p class="tablebutton"><a href="dinnermeetings.php">Click for Details</a></p>
 </div>
@@ -99,7 +99,7 @@ Magazine</a></p>
 <tr height="80">
 <td>
 <div class="navcenter">
-<p class="tablebutton"><a href="http://www.asq-harrisburg.org/home_files/Harrisburg ASQ Newsletter September 2017.pdf" target="_blank">Link to Current Newsletter</a></p>
+<p class="tablebutton"><a href="http://www.asq-harrisburg.org/home_files/Harrisburg ASQ Newsletter November 2017.pdf" target="_blank">Link to Current Newsletter</a></p>
 </div>
 </td>
 <td>
